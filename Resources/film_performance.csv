@@ -1,0 +1,925 @@
+Year,film,WorldwideBox Office,DomesticBox Office,InternationalBox Office,category,name,winner,nomination count,Nomination ID,Movie ID
+2009,avatar,2845899541.0,760507625.0,2085391916.0,ART DIRECTION,Production Design: Rick Carter and Robert Stromberg; Set Decoration: Kim Sinclair,True,9,0,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,CINEMATOGRAPHY,Mauro Fiore,True,9,1,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,DIRECTING,James Cameron,False,9,2,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,FILM EDITING,"Stephen Rivkin, John Refoua and James Cameron",False,9,3,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,MUSIC (Original Score),James Horner,False,9,4,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,BEST PICTURE,"James Cameron and Jon Landau, Producers",False,9,5,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,SOUND EDITING,Christopher Boyes and Gwendolyn Yates Whittle,False,9,6,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,SOUND MIXING,"Christopher Boyes, Gary Summers, Andy Nelson and Tony Johnson",False,9,7,0
+2009,avatar,2845899541.0,760507625.0,2085391916.0,VISUAL EFFECTS,"Joe Letteri, Stephen Rosenbaum, Richard Baneham and Andrew R. Jones",True,9,8,0
+2019,avengers: endgame,2797800564.0,858373000.0,1939427564.0,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",False,1,9,1
+1997,titanic,2207986545.0,659363944.0,1548622601.0,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Maurice Ransford;  Set Decoration:  Stuart Reiss",False,16,10,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,WRITING (Story and Screenplay),"Charles Brackett, Walter Reisch, Richard Breen",True,16,11,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,ACTRESS IN A LEADING ROLE,Kate Winslet,False,16,12,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,False,16,13,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,ART DIRECTION,Art Direction:  Peter Lamont;  Set Decoration:  Michael Ford,True,16,14,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,CINEMATOGRAPHY,Russell Carpenter,True,16,15,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,COSTUME DESIGN,Deborah L. Scott,True,16,16,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,DIRECTING,James Cameron,True,16,17,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,FILM EDITING,"Conrad Buff, James Cameron, Richard A. Harris",True,16,18,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,MAKEUP,"Tina Earnshaw, Greg Cannom, Simon Thompson",False,16,19,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,MUSIC (Original Dramatic Score),James Horner,True,16,20,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,MUSIC (Original Song),Music by James Horner; Lyric by Will Jennings,True,16,21,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,BEST PICTURE,"James Cameron and Jon Landau, Producers",True,16,22,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,SOUND,"Gary Rydstrom, Tom Johnson, Gary Summers, Mark Ulano",True,16,23,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,SOUND EFFECTS EDITING,"Tom Bellfort, Christopher Boyes",True,16,24,2
+1997,titanic,2207986545.0,659363944.0,1548622601.0,VISUAL EFFECTS,"Robert Legato, Mark Lasoff, Thomas L. Fisher, Michael Kanfer",True,16,25,2
+2018,avengers: infinity war,2044540523.0,678815482.0,1365725041.0,VISUAL EFFECTS,"Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",False,1,27,3
+2019,the lion king,1654367425.0,543638043.0,1110729382.0,MUSIC (Original Score),Hans Zimmer,True,10,29,4
+2019,the lion king,1654367425.0,543638043.0,1110729382.0,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,True,10,30,4
+2019,the lion king,1654367425.0,543638043.0,1110729382.0,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,False,10,31,4
+2019,the lion king,1654367425.0,543638043.0,1110729382.0,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,False,10,32,4
+2019,the lion king,1654367425.0,543638043.0,1110729382.0,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",False,10,33,4
+1994,the lion king,986214868.0,421785283.0,564429585.0,MUSIC (Original Score),Hans Zimmer,True,10,34,4
+1994,the lion king,986214868.0,421785283.0,564429585.0,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,True,10,35,4
+1994,the lion king,986214868.0,421785283.0,564429585.0,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,False,10,36,4
+1994,the lion king,986214868.0,421785283.0,564429585.0,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,False,10,37,4
+1994,the lion king,986214868.0,421785283.0,564429585.0,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",False,10,38,4
+2019,frozen ii,1446925396.0,477373578.0,969551818.0,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,False,1,41,5
+2018,black panther,1336494321.0,700059566.0,636434755.0,COSTUME DESIGN,Ruth Carter,True,7,43,6
+2018,black panther,1336494321.0,700059566.0,636434755.0,MUSIC (Original Score),Ludwig Goransson,True,7,44,6
+2018,black panther,1336494321.0,700059566.0,636434755.0,MUSIC (Original Song),"Music by Kendrick Lamar, Mark ""Sounwave"" Spears and Anthony ""Top Dawg"" Tiffith; Lyric by Kendrick Lamar, SZA and Anthony ""Top Dawg"" Tiffith",False,7,45,6
+2018,black panther,1336494321.0,700059566.0,636434755.0,BEST PICTURE,"Kevin Feige, Producer",False,7,46,6
+2018,black panther,1336494321.0,700059566.0,636434755.0,PRODUCTION DESIGN,Production Design: Hannah Beachler; Set Decoration: Jay Hart,True,7,47,6
+2018,black panther,1336494321.0,700059566.0,636434755.0,SOUND EDITING,Benjamin A. Burtt and Steve Boeddeker,False,7,48,6
+2018,black panther,1336494321.0,700059566.0,636434755.0,SOUND MIXING,"Steve Boeddeker, Brandon Proctor and Peter Devlin",False,7,49,6
+2013,frozen,1266648320.0,400953009.0,865695311.0,ANIMATED FEATURE FILM,"Chris Buck, Jennifer Lee and Peter Del Vecho",True,2,54,7
+2013,frozen,1266648320.0,400953009.0,865695311.0,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,True,2,55,7
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,MUSIC (Original Score),Alan Menken,True,16,56,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,False,16,57,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,True,16,58,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,False,16,59,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,BEST PICTURE,"Don Hahn, Producer",False,16,60,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,SOUND,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",False,16,61,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,COSTUME DESIGN,Jacqueline Durran,False,16,62,8
+2017,beauty and the beast,1255080655.0,504014165.0,751066490.0,PRODUCTION DESIGN,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,False,16,63,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,MUSIC (Original Score),Alan Menken,True,16,64,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,False,16,65,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,True,16,66,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,False,16,67,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,BEST PICTURE,"Don Hahn, Producer",False,16,68,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,SOUND,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",False,16,69,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,COSTUME DESIGN,Jacqueline Durran,False,16,70,8
+1991,beauty and the beast,438656843.0,206333165.0,232323678.0,PRODUCTION DESIGN,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,False,16,71,8
+2018,incredibles 2,1242805359.0,608581744.0,634223615.0,ANIMATED FEATURE FILM,"Brad Bird, John Walker and Nicole Paradis Grindle",False,1,72,9
+2013,iron man 3,1215392272.0,408992272.0,806400000.0,VISUAL EFFECTS,"Christopher Townsend, Guy Williams, Erik Nash and Dan Sudick",False,1,74,10
+2011,transformers: dark of the moon,1123794079.0,352390543.0,771403536.0,SOUND EDITING,Ethan Van der Ryn and Erik Aadahl,False,3,80,11
+2011,transformers: dark of the moon,1123794079.0,352390543.0,771403536.0,SOUND MIXING,"Greg P. Russell, Gary Summers, Jeffrey J. Haboush and Peter J. Devlin",False,3,81,11
+2011,transformers: dark of the moon,1123794079.0,352390543.0,771403536.0,VISUAL EFFECTS,"Scott Farrar, Scott Benza, Matthew Butler and John Frazier",False,3,82,11
+2012,skyfall,1110526981.0,304360277.0,806166704.0,CINEMATOGRAPHY,Roger Deakins,False,5,84,12
+2012,skyfall,1110526981.0,304360277.0,806166704.0,MUSIC (Original Score),Thomas Newman,False,5,85,12
+2012,skyfall,1110526981.0,304360277.0,806166704.0,MUSIC (Original Song),Music and Lyric by Adele Adkins and Paul Epworth,True,5,86,12
+2012,skyfall,1110526981.0,304360277.0,806166704.0,SOUND EDITING,Per Hallberg and Karen Baker Landers,True,5,87,12
+2012,skyfall,1110526981.0,304360277.0,806166704.0,SOUND MIXING,"Scott Millan, Greg P. Russell and Stuart Wilson",False,5,88,12
+2019,toy story 4,1073080329.0,434038008.0,639042321.0,ANIMATED FEATURE FILM,"Josh Cooley, Mark Nielsen and Jonas Rivera",True,2,91,13
+2019,toy story 4,1073080329.0,434038008.0,639042321.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,2,92,13
+2019,star wars: the rise of skywalker,1072848487.0,515202542.0,557645945.0,MUSIC (Original Score),John Williams,False,3,93,14
+2019,star wars: the rise of skywalker,1072848487.0,515202542.0,557645945.0,SOUND EDITING,Matthew Wood and David Acord,False,3,94,14
+2019,star wars: the rise of skywalker,1072848487.0,515202542.0,557645945.0,VISUAL EFFECTS,"Roger Guyett, Neal Scanlan, Patrick Tubach and Dominic Tuohy",False,3,95,14
+2019,joker,1072507517.0,335451311.0,737056206.0,ACTOR IN A LEADING ROLE,Joaquin Phoenix,True,11,96,15
+2019,joker,1072507517.0,335451311.0,737056206.0,CINEMATOGRAPHY,Lawrence Sher,False,11,97,15
+2019,joker,1072507517.0,335451311.0,737056206.0,COSTUME DESIGN,Mark Bridges,False,11,98,15
+2019,joker,1072507517.0,335451311.0,737056206.0,DIRECTING,Todd Phillips,False,11,99,15
+2019,joker,1072507517.0,335451311.0,737056206.0,FILM EDITING,Jeff Groth,False,11,100,15
+2019,joker,1072507517.0,335451311.0,737056206.0,MAKEUP AND HAIRSTYLING,Nicki Ledermann and Kay Georgiou,False,11,101,15
+2019,joker,1072507517.0,335451311.0,737056206.0,MUSIC (Original Score),Hildur Guðnadóttir,True,11,102,15
+2019,joker,1072507517.0,335451311.0,737056206.0,BEST PICTURE,"Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",False,11,103,15
+2019,joker,1072507517.0,335451311.0,737056206.0,SOUND EDITING,Alan Robert Murray,False,11,104,15
+2019,joker,1072507517.0,335451311.0,737056206.0,SOUND MIXING,"Tom Ozanich, Dean Zupancic and Tod Maitland",False,11,105,15
+2019,joker,1072507517.0,335451311.0,737056206.0,WRITING (Adapted Screenplay),Written by Todd Phillips & Scott Silver,False,11,106,15
+2010,toy story 3,1068879522.0,415004880.0,653874642.0,ANIMATED FEATURE FILM,Lee Unkrich,True,5,107,16
+2010,toy story 3,1068879522.0,415004880.0,653874642.0,MUSIC (Original Song),Music and Lyric by Randy Newman,True,5,108,16
+2010,toy story 3,1068879522.0,415004880.0,653874642.0,BEST PICTURE,"Darla K. Anderson, Producer",False,5,109,16
+2010,toy story 3,1068879522.0,415004880.0,653874642.0,SOUND EDITING,Tom Myers and Michael Silvers,False,5,110,16
+2010,toy story 3,1068879522.0,415004880.0,653874642.0,WRITING (Adapted Screenplay),"Screenplay by Michael Arndt; Story by John Lasseter, Andrew Stanton and Lee Unkrich",False,5,111,16
+2016,rogue one: a star wars story,1055135598.0,532177324.0,522958274.0,SOUND MIXING,"David Parker, Christopher Scarabosio and Stuart Wilson",False,2,113,17
+2016,rogue one: a star wars story,1055135598.0,532177324.0,522958274.0,VISUAL EFFECTS,"John Knoll, Mohen Leo, Hal Hickel and Neil Corbould",False,2,114,17
+2019,aladdin,1046649706.0,355559216.0,691090490.0,MUSIC (Original Score),Alan Menken,True,10,115,18
+2019,aladdin,1046649706.0,355559216.0,691090490.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,False,10,116,18
+2019,aladdin,1046649706.0,355559216.0,691090490.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Tim Rice,True,10,117,18
+2019,aladdin,1046649706.0,355559216.0,691090490.0,SOUND,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",False,10,118,18
+2019,aladdin,1046649706.0,355559216.0,691090490.0,SOUND EFFECTS EDITING,Mark Mangini,False,10,119,18
+1992,aladdin,504050219.0,217350219.0,286700000.0,MUSIC (Original Score),Alan Menken,True,10,120,18
+1992,aladdin,504050219.0,217350219.0,286700000.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,False,10,121,18
+1992,aladdin,504050219.0,217350219.0,286700000.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Tim Rice,True,10,122,18
+1992,aladdin,504050219.0,217350219.0,286700000.0,SOUND,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",False,10,123,18
+1992,aladdin,504050219.0,217350219.0,286700000.0,SOUND EFFECTS EDITING,Mark Mangini,False,10,124,18
+1993,jurassic park,1045573035.0,402523348.0,643049687.0,SOUND,"Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins",True,3,126,19
+1993,jurassic park,1045573035.0,402523348.0,643049687.0,SOUND EFFECTS EDITING,"Gary Rydstrom, Richard Hymns",True,3,127,19
+1993,jurassic park,1045573035.0,402523348.0,643049687.0,VISUAL EFFECTS,"Dennis Muren, Stan Winston, Phil Tippett, Michael Lantieri",True,3,128,19
+2010,alice in wonderland,1025491110.0,334191110.0,691300000.0,MUSIC (Scoring of a Musical Picture),Oliver Wallace,False,4,131,20
+2010,alice in wonderland,1025491110.0,334191110.0,691300000.0,ART DIRECTION,Production Design: Robert Stromberg; Set Decoration: Karen O'Hara,True,4,132,20
+2010,alice in wonderland,1025491110.0,334191110.0,691300000.0,COSTUME DESIGN,Colleen Atwood,True,4,133,20
+2010,alice in wonderland,1025491110.0,334191110.0,691300000.0,VISUAL EFFECTS,"Ken Ralston, David Schaub, Carey Villegas and Sean Phillips",False,4,134,20
+2012,the hobbit: an unexpected journey,1014938545.0,303003568.0,711934977.0,MAKEUP AND HAIRSTYLING,"Peter Swords King, Rick Findlater and Tami Lane",False,3,136,21
+2012,the hobbit: an unexpected journey,1014938545.0,303003568.0,711934977.0,PRODUCTION DESIGN,Production Design: Dan Hennah; Set Decoration: Ra Vincent and Simon Bright,False,3,137,21
+2012,the hobbit: an unexpected journey,1014938545.0,303003568.0,711934977.0,VISUAL EFFECTS,"Joe Letteri, Eric Saindon, David Clayton and R. Christopher White",False,3,138,21
+2016,zootopia,1005304638.0,341268248.0,664036390.0,ANIMATED FEATURE FILM,"Byron Howard, Rich Moore and Clark Spencer",True,1,139,22
+2008,the dark knight,999046281.0,533720947.0,465325334.0,ACTOR IN A SUPPORTING ROLE,Heath Ledger,True,8,140,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,ART DIRECTION,Art Direction: Nathan Crowley; Set Decoration: Peter Lando,False,8,141,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,CINEMATOGRAPHY,Wally Pfister,False,8,142,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,FILM EDITING,Lee Smith,False,8,143,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,MAKEUP,"John Caglione, Jr. and Conor O'Sullivan",False,8,144,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,SOUND EDITING,Richard King,True,8,145,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,SOUND MIXING,"Lora Hirschberg, Gary Rizzo and Ed Novick",False,8,146,23
+2008,the dark knight,999046281.0,533720947.0,465325334.0,VISUAL EFFECTS,"Nick Davis, Chris Corbould, Tim Webber and Paul Franklin",False,8,147,23
+2013,despicable me 2,975216835.0,368065385.0,607151450.0,ANIMATED FEATURE FILM,"Chris Renaud, Pierre Coffin and Chris Meledandri",False,2,148,24
+2013,despicable me 2,975216835.0,368065385.0,607151450.0,MUSIC (Original Song),Music and Lyric by Pharrell Williams,False,2,149,24
+2013,the hobbit: the desolation of smaug,959358436.0,258241522.0,701116914.0,SOUND EDITING,Brent Burge and Chris Ward,False,3,153,25
+2013,the hobbit: the desolation of smaug,959358436.0,258241522.0,701116914.0,SOUND MIXING,"Christopher Boyes, Michael Hedges, Michael Semanick and Tony Johnson",False,3,154,25
+2013,the hobbit: the desolation of smaug,959358436.0,258241522.0,701116914.0,VISUAL EFFECTS,"Joe Letteri, Eric Saindon, David Clayton and Eric Reynolds",False,3,155,25
+2016,the jungle book,953554418.0,364001123.0,589553295.0,MUSIC (Song),Music and Lyrics by Terry Gilkyson,False,2,156,26
+2016,the jungle book,953554418.0,364001123.0,589553295.0,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Dan Lemmon",True,2,157,26
+2003,finding nemo,936094852.0,380529370.0,555565482.0,ANIMATED FEATURE FILM,Andrew Stanton,True,4,160,27
+2003,finding nemo,936094852.0,380529370.0,555565482.0,MUSIC (Original Score),Thomas Newman,False,4,161,27
+2003,finding nemo,936094852.0,380529370.0,555565482.0,SOUND EDITING,Gary Rydstrom and Michael Silvers,False,4,162,27
+2003,finding nemo,936094852.0,380529370.0,555565482.0,WRITING (Original Screenplay),"Screenplay by Andrew Stanton, Bob Peterson and David Reynolds; Original Story by Andrew Stanton",False,4,163,27
+2004,shrek 2,935253978.0,441226247.0,494027731.0,ANIMATED FEATURE FILM,Andrew Adamson,False,2,164,28
+2004,shrek 2,935253978.0,441226247.0,494027731.0,MUSIC (Original Song),"Music by Adam Duritz, Charles Gillingham, Jim Bogios, David Immergluck, Matthew Malley and David Bryson; Lyric by Adam Duritz and Daniel Vickrey",False,2,165,28
+2009,harry potter and the half-blood prince,930673167.0,302089278.0,628583889.0,CINEMATOGRAPHY,Bruno Delbonnel,False,1,166,29
+2002,the lord of the rings: the two towers,919148764.0,342548984.0,576599780.0,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah and Alan Lee,False,6,167,30
+2002,the lord of the rings: the two towers,919148764.0,342548984.0,576599780.0,FILM EDITING,Michael Horton,False,6,168,30
+2002,the lord of the rings: the two towers,919148764.0,342548984.0,576599780.0,BEST PICTURE,"Barrie M. Osborne, Fran Walsh and Peter Jackson, Producers",False,6,169,30
+2002,the lord of the rings: the two towers,919148764.0,342548984.0,576599780.0,SOUND,"Christopher Boyes, Michael Semanick, Michael Hedges, Hammond Peek",False,6,170,30
+2002,the lord of the rings: the two towers,919148764.0,342548984.0,576599780.0,SOUND EDITING,"Ethan Van der Ryn, Michael Hopkins",True,6,171,30
+2002,the lord of the rings: the two towers,919148764.0,342548984.0,576599780.0,VISUAL EFFECTS,"Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke",True,6,172,30
+2018,bohemian rhapsody,891472999.0,216303339.0,675169660.0,ACTOR IN A LEADING ROLE,Rami Malek,True,5,174,31
+2018,bohemian rhapsody,891472999.0,216303339.0,675169660.0,FILM EDITING,John Ottman,True,5,175,31
+2018,bohemian rhapsody,891472999.0,216303339.0,675169660.0,BEST PICTURE,"Graham King, Producer",False,5,176,31
+2018,bohemian rhapsody,891472999.0,216303339.0,675169660.0,SOUND EDITING,John Warhurst and Nina Hartstone,True,5,177,31
+2018,bohemian rhapsody,891472999.0,216303339.0,675169660.0,SOUND MIXING,"Paul Massey, Tim Cavagin and John Casali",True,5,178,31
+2005,harry potter and the goblet of fire,891320084.0,290201752.0,601118332.0,ART DIRECTION,Art Direction:  Stuart Craig; Set Decoration:  Stephenie McMillan,False,1,179,32
+2015,spectre,879500760.0,200074175.0,679426585.0,MUSIC (Original Song),Music and Lyric by Jimmy Napes and Sam Smith,True,1,185,33
+2015,inside out,855038387.0,356461711.0,498576676.0,ANIMATED FEATURE FILM,Pete Docter and Jonas Rivera,True,2,190,34
+2015,inside out,855038387.0,356461711.0,498576676.0,WRITING (Original Screenplay),"Screenplay by Pete Docter, Meg LeFauve, Josh Cooley; Original story by Pete Docter, Ronnie del Carmen",False,2,191,34
+2009,transformers: revenge of the fallen,836519699.0,402111870.0,434407829.0,SOUND MIXING,"Greg P. Russell, Gary Summers and Geoffrey Patterson",False,1,195,35
+2002,spider-man,821706375.0,403706375.0,418000000.0,SOUND,"Kevin O'Connell, Greg P. Russell, Ed Novick",False,2,198,36
+2002,spider-man,821706375.0,403706375.0,418000000.0,VISUAL EFFECTS,"John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier",False,2,199,36
+1996,independence day,817400878.0,306169255.0,511231623.0,SOUND,"Chris Carpenter, Bill W. Benton, Bob Beemer, Jeff Wexler",False,2,201,37
+1996,independence day,817400878.0,306169255.0,511231623.0,VISUAL EFFECTS,"Volker Engel, Douglas Smith, Clay Pinney, Joseph Viskocil",True,2,202,37
+2016,fantastic beasts and where to find them,811724385.0,234037575.0,577686810.0,COSTUME DESIGN,Colleen Atwood,True,2,203,38
+2016,fantastic beasts and where to find them,811724385.0,234037575.0,577686810.0,PRODUCTION DESIGN,Production Design: Stuart Craig; Set Decoration: Anna Pinnock,False,2,204,38
+2017,coco,798237597.0,210460015.0,587777582.0,ANIMATED FEATURE FILM,Lee Unkrich and Darla K. Anderson,True,2,207,39
+2017,coco,798237597.0,210460015.0,587777582.0,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,True,2,208,39
+2004,spider-man 2,794697557.0,373524485.0,421173072.0,SOUND EDITING,Paul N.J. Ottosson,False,3,210,40
+2004,spider-man 2,794697557.0,373524485.0,421173072.0,SOUND MIXING,"Kevin O'Connell, Greg P. Russell, Jeffrey J. Haboush and Joseph Geisinger",False,3,211,40
+2004,spider-man 2,794697557.0,373524485.0,421173072.0,VISUAL EFFECTS,"John Dykstra, Scott Stokdyk, Anthony LaMolinara and John Frazier",True,3,212,40
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,CINEMATOGRAPHY,Allen Daviau,False,9,213,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,DIRECTING,Steven Spielberg,False,9,214,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,FILM EDITING,Carol Littleton,False,9,215,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,MUSIC (Original Score),John Williams,True,9,216,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,BEST PICTURE,"Steven Spielberg and Kathleen Kennedy, Producers",False,9,217,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,SOUND,"Robert Knudson, Robert Glass, Don Digirolamo, Gene Cantamessa",True,9,218,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,SOUND EFFECTS EDITING,"Charles L. Campbell, Ben Burtt",True,9,219,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,VISUAL EFFECTS,"Carlo Rambaldi, Dennis Muren, Kenneth F. Smith",True,9,220,41
+1982,e.t. the extra-terrestrial,792962972.0,435110554.0,357852418.0,WRITING (Screenplay Written Directly for the Screen),Melissa Mathison,False,9,221,41
+2004,harry potter and the prisoner of azkaban,789961033.0,249757726.0,540203307.0,MUSIC (Original Score),John Williams,False,2,222,42
+2004,harry potter and the prisoner of azkaban,789961033.0,249757726.0,540203307.0,VISUAL EFFECTS,"Roger Guyett, Tim Burke, John Richardson and Bill George",False,2,223,42
+2014,guardians of the galaxy,770882395.0,333714112.0,437168283.0,MAKEUP AND HAIRSTYLING,Elizabeth Yianni-Georgiou and David White,False,2,230,43
+2014,guardians of the galaxy,770882395.0,333714112.0,437168283.0,VISUAL EFFECTS,"Stephane Ceretti, Nicolas Aithadi, Jonathan Fawkner and Paul Corbould",False,2,231,43
+2014,maleficent,758536735.0,241407328.0,517129407.0,COSTUME DESIGN,Anna B. Sheppard,False,1,234,44
+2014,x-men: days of future past,747862775.0,233921534.0,513941241.0,VISUAL EFFECTS,"Richard Stammers, Lou Pecora, Tim Crosbie and Cameron Waldbauer",False,1,238,45
+2016,suicide squad,746846894.0,325100054.0,421746840.0,MAKEUP AND HAIRSTYLING,"Alessandro Bertolazzi, Giorgio Gregorini and Christopher Nelson",True,1,240,46
+2009,up,731463377.0,293004164.0,438459213.0,SHORT FILM (Live Action),"Mike Hoover, Producer",True,6,244,47
+2009,up,731463377.0,293004164.0,438459213.0,ANIMATED FEATURE FILM,Pete Docter,True,6,245,47
+2009,up,731463377.0,293004164.0,438459213.0,MUSIC (Original Score),Michael Giacchino,True,6,246,47
+2009,up,731463377.0,293004164.0,438459213.0,BEST PICTURE,"Jonas Rivera, Producer",False,6,247,47
+2009,up,731463377.0,293004164.0,438459213.0,SOUND EDITING,Michael Silvers and Tom Myers,False,6,248,47
+2009,up,731463377.0,293004164.0,438459213.0,WRITING (Original Screenplay),"Screenplay by Bob Peterson, Pete Docter; Story by Pete Docter, Bob Peterson, Tom McCarthy",False,6,249,47
+2010,inception,728582465.0,292576195.0,436006270.0,ART DIRECTION,Production Design: Guy Hendrix Dyas; Set Decoration: Larry Dias and Doug Mowat,False,8,250,48
+2010,inception,728582465.0,292576195.0,436006270.0,CINEMATOGRAPHY,Wally Pfister,True,8,251,48
+2010,inception,728582465.0,292576195.0,436006270.0,MUSIC (Original Score),Hans Zimmer,False,8,252,48
+2010,inception,728582465.0,292576195.0,436006270.0,BEST PICTURE,"Emma Thomas and Christopher Nolan, Producers",False,8,253,48
+2010,inception,728582465.0,292576195.0,436006270.0,SOUND EDITING,Richard King,True,8,254,48
+2010,inception,728582465.0,292576195.0,436006270.0,SOUND MIXING,"Lora Hirschberg, Gary A. Rizzo and Ed Novick",True,8,255,48
+2010,inception,728582465.0,292576195.0,436006270.0,VISUAL EFFECTS,"Paul Franklin, Chris Corbould, Andrew Lockley and Peter Bebb",True,8,256,48
+2010,inception,728582465.0,292576195.0,436006270.0,WRITING (Original Screenplay),Written by Christopher Nolan,False,8,257,48
+2014,captain america: the winter soldier,714401889.0,259746958.0,454654931.0,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Bryan Grill and Dan Sudick",False,1,260,49
+2014,dawn of the planet of the apes,710644566.0,208545589.0,502098977.0,VISUAL EFFECTS,"Joe Letteri, Dan Lemmon, Daniel Barrett and Erik Winquist",False,1,261,50
+2007,transformers,708272592.0,319246193.0,389026399.0,SOUND EDITING,Ethan Van der Ryn and Mike Hopkins,False,3,263,51
+2007,transformers,708272592.0,319246193.0,389026399.0,SOUND MIXING,"Kevin O'Connell, Greg P. Russell and Peter J. Devlin",False,3,264,51
+2007,transformers,708272592.0,319246193.0,389026399.0,VISUAL EFFECTS,"Scott Farrar, Scott Benza, Russell Earl and John Frazier",False,3,265,51
+2013,gravity,689742192.0,274092705.0,415649487.0,ACTRESS IN A LEADING ROLE,Sandra Bullock,False,10,269,52
+2013,gravity,689742192.0,274092705.0,415649487.0,CINEMATOGRAPHY,Emmanuel Lubezki,True,10,270,52
+2013,gravity,689742192.0,274092705.0,415649487.0,DIRECTING,Alfonso Cuarón,True,10,271,52
+2013,gravity,689742192.0,274092705.0,415649487.0,FILM EDITING,Alfonso Cuarón and Mark Sanger,True,10,272,52
+2013,gravity,689742192.0,274092705.0,415649487.0,MUSIC (Original Score),Steven Price,True,10,273,52
+2013,gravity,689742192.0,274092705.0,415649487.0,BEST PICTURE,"Alfonso Cuarón and David Heyman, Producers",False,10,274,52
+2013,gravity,689742192.0,274092705.0,415649487.0,PRODUCTION DESIGN,Production Design: Andy Nicholson; Set Decoration: Rosie Goodwin and Joanne Woollard,False,10,275,52
+2013,gravity,689742192.0,274092705.0,415649487.0,SOUND EDITING,Glenn Freemantle,True,10,276,52
+2013,gravity,689742192.0,274092705.0,415649487.0,SOUND MIXING,"Skip Lievsay, Niv Adiri, Christopher Benstead and Chris Munro",True,10,277,52
+2013,gravity,689742192.0,274092705.0,415649487.0,VISUAL EFFECTS,"Tim Webber, Chris Lawrence, David Shirk and Neil Corbould",True,10,278,52
+1994,forrest gump,679838260.0,330151138.0,349687122.0,ACTOR IN A LEADING ROLE,Tom Hanks,True,13,282,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,ACTOR IN A SUPPORTING ROLE,Gary Sinise,False,13,283,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,ART DIRECTION,Art Direction:  Rick Carter;  Set Decoration:  Nancy Haigh,False,13,284,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,CINEMATOGRAPHY,Don Burgess,False,13,285,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,DIRECTING,Robert Zemeckis,True,13,286,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,FILM EDITING,Arthur Schmidt,True,13,287,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,MAKEUP,"Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory",False,13,288,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,MUSIC (Original Score),Alan Silvestri,False,13,289,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,BEST PICTURE,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",True,13,290,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,SOUND,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",False,13,291,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,SOUND EFFECTS EDITING,"Gloria S. Borders, Randy Thom",False,13,292,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,VISUAL EFFECTS,"Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall",True,13,293,53
+1994,forrest gump,679838260.0,330151138.0,349687122.0,WRITING (Screenplay Based on Material Previously Produced or Published),Eric Roth,True,13,294,53
+2016,doctor strange,676354481.0,232641920.0,443712561.0,VISUAL EFFECTS,"Stephane Ceretti, Richard Bluff, Vincent Cirelli and Paul Corbould",False,1,296,54
+1999,the sixth sense,672806292.0,293506292.0,379300000.0,ACTOR IN A SUPPORTING ROLE,Haley Joel Osment,False,6,297,55
+1999,the sixth sense,672806292.0,293506292.0,379300000.0,ACTRESS IN A SUPPORTING ROLE,Toni Collette,False,6,298,55
+1999,the sixth sense,672806292.0,293506292.0,379300000.0,DIRECTING,M. Night Shyamalan,False,6,299,55
+1999,the sixth sense,672806292.0,293506292.0,379300000.0,FILM EDITING,Andrew Mondshein,False,6,300,55
+1999,the sixth sense,672806292.0,293506292.0,379300000.0,BEST PICTURE,"Frank Marshall, Kathleen Kennedy and Barry Mendel, Producers",False,6,301,55
+1999,the sixth sense,672806292.0,293506292.0,379300000.0,WRITING (Screenplay Written Directly for the Screen),M. Night Shyamalan,False,6,302,55
+2011,kung fu panda 2,664837547.0,165249063.0,499588484.0,ANIMATED FEATURE FILM,Jennifer Yuh Nelson,False,1,304,56
+2015,the martian,655111538.0,228433663.0,426677875.0,ACTOR IN A LEADING ROLE,Matt Damon,False,7,307,57
+2015,the martian,655111538.0,228433663.0,426677875.0,BEST PICTURE,"Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",False,7,308,57
+2015,the martian,655111538.0,228433663.0,426677875.0,PRODUCTION DESIGN,Production Design: Arthur Max; Set Decoration: Celia Bobak,False,7,309,57
+2015,the martian,655111538.0,228433663.0,426677875.0,SOUND EDITING,Oliver Tarney,False,7,310,57
+2015,the martian,655111538.0,228433663.0,426677875.0,SOUND MIXING,"Paul Massey, Mark Taylor and Mac Ruth",False,7,311,57
+2015,the martian,655111538.0,228433663.0,426677875.0,VISUAL EFFECTS,"Richard Stammers, Anders Langlands, Chris Lawrence and Steven Warner",False,7,312,57
+2015,the martian,655111538.0,228433663.0,426677875.0,WRITING (Adapted Screenplay),Screenplay by Drew Goddard,False,7,313,57
+2014,interstellar,651994868.0,188017894.0,463976974.0,MUSIC (Original Score),Hans Zimmer,False,5,316,58
+2014,interstellar,651994868.0,188017894.0,463976974.0,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Gary Fettis,False,5,317,58
+2014,interstellar,651994868.0,188017894.0,463976974.0,SOUND EDITING,Richard King,False,5,318,58
+2014,interstellar,651994868.0,188017894.0,463976974.0,SOUND MIXING,"Gary A. Rizzo, Gregg Landaker and Mark Weingarten",False,5,319,58
+2014,interstellar,651994868.0,188017894.0,463976974.0,VISUAL EFFECTS,"Paul Franklin, Andrew Lockley, Ian Hunter and Scott Fisher",True,5,320,58
+2014,big hero 6,649657407.0,222527828.0,427129579.0,ANIMATED FEATURE FILM,"Don Hall, Chris Williams and Roy Conli",True,1,323,59
+2016,moana,635245959.0,248757044.0,386488915.0,ANIMATED FEATURE FILM,"John Musker, Ron Clements and Osnat Shurer",False,2,326,60
+2016,moana,635245959.0,248757044.0,386488915.0,MUSIC (Original Song),Music and Lyric by Lin-Manuel Miranda,False,2,327,60
+2016,sing,632483611.0,270329045.0,362154566.0,SHORT FILM (Live Action),Kristof Deák and Anna Udvardy,True,1,328,61
+2008,kung fu panda,631910531.0,215434591.0,416475940.0,ANIMATED FEATURE FILM,John Stevenson and Mark Osborne,False,1,329,62
+2004,the incredibles,631441092.0,261441092.0,370000000.0,ANIMATED FEATURE FILM,Brad Bird,True,4,330,63
+2004,the incredibles,631441092.0,261441092.0,370000000.0,SOUND EDITING,Michael Silvers and Randy Thom,True,4,331,63
+2004,the incredibles,631441092.0,261441092.0,370000000.0,SOUND MIXING,"Randy Thom, Gary A. Rizzo and Doc Kane",False,4,332,63
+2004,the incredibles,631441092.0,261441092.0,370000000.0,WRITING (Original Screenplay),Written by Brad Bird,False,4,333,63
+2007,ratatouille,626549695.0,206445654.0,420104041.0,ANIMATED FEATURE FILM,Brad Bird,True,5,335,64
+2007,ratatouille,626549695.0,206445654.0,420104041.0,MUSIC (Original Score),Michael Giacchino,False,5,336,64
+2007,ratatouille,626549695.0,206445654.0,420104041.0,SOUND EDITING,Randy Thom and Michael Silvers,False,5,337,64
+2007,ratatouille,626549695.0,206445654.0,420104041.0,SOUND MIXING,"Randy Thom, Michael Semanick and Doc Kane",False,5,338,64
+2007,ratatouille,626549695.0,206445654.0,420104041.0,WRITING (Original Screenplay),"Screenplay by Brad Bird; Story by Jan Pinkava, Jim Capobianco, Brad Bird",False,5,339,64
+2004,the passion of the christ,622313635.0,370782930.0,251530705.0,CINEMATOGRAPHY,Caleb Deschanel,False,3,342,65
+2004,the passion of the christ,622313635.0,370782930.0,251530705.0,MAKEUP,Keith Vanderlaan and Christien Tinsley,False,3,343,65
+2004,the passion of the christ,622313635.0,370782930.0,251530705.0,MUSIC (Original Score),John Debney,False,3,344,65
+2010,iron man 2,621156389.0,312433331.0,308723058.0,VISUAL EFFECTS,"Janek Sirrs, Ben Snow, Ged Wright and Daniel Sudick",False,1,345,66
+2012,life of pi,619310368.0,124987022.0,494323346.0,CINEMATOGRAPHY,Claudio Miranda,True,11,346,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,DIRECTING,Ang Lee,True,11,347,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,FILM EDITING,Tim Squyres,False,11,348,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,MUSIC (Original Score),Mychael Danna,True,11,349,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,MUSIC (Original Song),Music by Mychael Danna; Lyric by Bombay Jayashri,False,11,350,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,BEST PICTURE,"Gil Netter, Ang Lee and David Womark, Producers",False,11,351,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,PRODUCTION DESIGN,Production Design: David Gropman; Set Decoration: Anna Pinnock,False,11,352,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,SOUND EDITING,Eugene Gearty and Philip Stockton,False,11,353,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,SOUND MIXING,"Ron Bartlett, D.M. Hemphill and Drew Kunin",False,11,354,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,VISUAL EFFECTS,"Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",True,11,355,67
+2012,life of pi,619310368.0,124987022.0,494323346.0,WRITING (Adapted Screenplay),Screenplay by David Magee,False,11,356,67
+1997,the lost world: jurassic park,618638999.0,229086679.0,389552320.0,VISUAL EFFECTS,"Dennis Muren, Stan Winston, Randal M. Dutra, Michael Lantieri",False,1,357,68
+2014,how to train your dragon 2,614586270.0,177002924.0,437583346.0,ANIMATED FEATURE FILM,Dean DeBlois and Bonnie Arnold,False,1,358,69
+2017,logan,614202315.0,226277068.0,387925247.0,WRITING (Adapted Screenplay),Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold,False,1,359,70
+2005,war of the worlds,606836535.0,234280354.0,372556181.0,SOUND EDITING,Richard King,False,3,360,71
+2005,war of the worlds,606836535.0,234280354.0,372556181.0,SOUND MIXING,"Andy Nelson, Anna Behlmer and Ronald Judkins",False,3,361,71
+2005,war of the worlds,606836535.0,234280354.0,372556181.0,VISUAL EFFECTS,"Dennis Muren, Pablo Helman, Randal M. Dutra and Daniel Sudick",False,3,362,71
+2006,casino royale,594420283.0,167365000.0,427055283.0,MUSIC (Song),Music by Burt Bacharach; Lyrics by Hal David,False,1,366,72
+1997,men in black,587790539.0,250690539.0,337100000.0,ART DIRECTION,Art Direction:  Bo Welch;  Set Decoration:  Cheryl Carasik,False,3,368,73
+1997,men in black,587790539.0,250690539.0,337100000.0,MAKEUP,"Rick Baker, David LeRoy Anderson",True,3,369,73
+1997,men in black,587790539.0,250690539.0,337100000.0,MUSIC (Original Musical or Comedy Score),Danny Elfman,False,3,370,73
+2010,tangled,585574317.0,200821936.0,384752381.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Glenn Slater,False,1,372,74
+2008,iron man,585171547.0,318604126.0,266567421.0,SOUND EDITING,Frank Eulner and Christopher Boyes,False,2,374,75
+2008,iron man,585171547.0,318604126.0,266567421.0,VISUAL EFFECTS,"John Nelson, Ben Snow, Dan Sudick and Shane Mahan",False,2,375,75
+2018,ready player one,579055653.0,137690172.0,441365481.0,VISUAL EFFECTS,"Roger Guyett, Grady Cofer, Matthew E. Butler and David Shirk",False,1,377,76
+2013,the croods,573068425.0,187168425.0,385900000.0,ANIMATED FEATURE FILM,"Chris Sanders, Kirk DeMicco and Kristine Belson",False,1,378,77
+2015,fifty shades of grey,570794950.0,166167230.0,404627720.0,MUSIC (Original Song),"Music and Lyric by The Weeknd, Ahmad Balshe, Jason Quenneville and Stephan Moccio",False,1,379,78
+2017,kong: skull island,561072059.0,168052812.0,393019247.0,VISUAL EFFECTS,"Stephen Rosenbaum, Jeff White, Scott Benza and Mike Meinardus",False,1,381,79
+2001,"monsters, inc.",560483719.0,290149425.0,270334294.0,ANIMATED FEATURE FILM,"Pete Docter, John Lasseter",False,4,382,80
+2001,"monsters, inc.",560483719.0,290149425.0,270334294.0,MUSIC (Original Score),Randy Newman,False,4,383,80
+2001,"monsters, inc.",560483719.0,290149425.0,270334294.0,MUSIC (Original Song),Music and Lyric by Randy Newman,True,4,384,80
+2001,"monsters, inc.",560483719.0,290149425.0,270334294.0,SOUND EDITING,"Gary Rydstrom, Michael Silvers",False,4,385,80
+2012,ted,556016627.0,218665740.0,337350887.0,MUSIC (Original Song),Music by Walter Murphy; Lyric by Seth MacFarlane,False,1,388,81
+2011,puss in boots,554987477.0,149260504.0,405726973.0,ANIMATED FEATURE FILM,Chris Miller,False,1,390,82
+2012,brave,554606532.0,237282182.0,317324350.0,ANIMATED FEATURE FILM,Mark Andrews and Brenda Chapman,True,1,391,83
+1998,armageddon,554600000.0,201578182.0,353021818.0,MUSIC (Original Song),Music and Lyric by Diane Warren,False,4,392,84
+1998,armageddon,554600000.0,201578182.0,353021818.0,SOUND,"Kevin O'Connell, Greg P. Russell, Keith A. Wester",False,4,393,84
+1998,armageddon,554600000.0,201578182.0,353021818.0,SOUND EFFECTS EDITING,George Watters II,False,4,394,84
+1998,armageddon,554600000.0,201578182.0,353021818.0,VISUAL EFFECTS,"Richard R. Hoover, Pat McClung, John Frazier",False,4,395,84
+2005,king kong,550517357.0,218080025.0,332437332.0,CINEMATOGRAPHY,Richard H. Kline,False,7,396,85
+2005,king kong,550517357.0,218080025.0,332437332.0,SOUND,"Harry Warren Tetrick, William McCaughey, Aaron Rochin, Jack Solomon",False,7,397,85
+2005,king kong,550517357.0,218080025.0,332437332.0,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Carlo Rambaldi, Glen Robinson, Frank Van der Veer",True,7,398,85
+2005,king kong,550517357.0,218080025.0,332437332.0,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah and Simon Bright,False,7,399,85
+2005,king kong,550517357.0,218080025.0,332437332.0,SOUND EDITING,Mike Hopkins and Ethan Van der Ryn,True,7,400,85
+2005,king kong,550517357.0,218080025.0,332437332.0,SOUND MIXING,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",True,7,401,85
+2005,king kong,550517357.0,218080025.0,332437332.0,VISUAL EFFECTS,"Joe Letteri, Brian Van't Hul, Christian Rivers and Richard Taylor",True,7,402,85
+2014,american sniper,547326372.0,350126372.0,197200000.0,ACTOR IN A LEADING ROLE,Bradley Cooper,False,6,405,86
+2014,american sniper,547326372.0,350126372.0,197200000.0,FILM EDITING,Joel Cox and Gary D. Roach,False,6,406,86
+2014,american sniper,547326372.0,350126372.0,197200000.0,BEST PICTURE,"Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",False,6,407,86
+2014,american sniper,547326372.0,350126372.0,197200000.0,SOUND EDITING,Alan Robert Murray and Bub Asman,True,6,408,86
+2014,american sniper,547326372.0,350126372.0,197200000.0,SOUND MIXING,"John Reitz, Gregg Rudloff and Walt Martin",False,6,409,86
+2014,american sniper,547326372.0,350126372.0,197200000.0,WRITING (Adapted Screenplay),Written by Jason Hall,False,6,410,86
+2015,cinderella,534551353.0,201151353.0,333400000.0,MUSIC (Scoring of a Musical Picture),"Oliver Wallace, Paul J. Smith",False,8,415,87
+2015,cinderella,534551353.0,201151353.0,333400000.0,MUSIC (Song),"Music and Lyrics by Mack David, Al Hoffman and Jerry Livingston",False,8,416,87
+2015,cinderella,534551353.0,201151353.0,333400000.0,SOUND RECORDING,"Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director",False,8,417,87
+2015,cinderella,534551353.0,201151353.0,333400000.0,COSTUME DESIGN,Sandy Powell,False,8,418,87
+1950,cinderella,263591415.0,85000000.0,178591415.0,MUSIC (Scoring of a Musical Picture),"Oliver Wallace, Paul J. Smith",False,8,419,87
+1950,cinderella,263591415.0,85000000.0,178591415.0,MUSIC (Song),"Music and Lyrics by Mack David, Al Hoffman and Jerry Livingston",False,8,420,87
+1950,cinderella,263591415.0,85000000.0,178591415.0,SOUND RECORDING,"Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director",False,8,421,87
+1950,cinderella,263591415.0,85000000.0,178591415.0,COSTUME DESIGN,Sandy Powell,False,8,422,87
+2015,the revenant,532938302.0,183637894.0,349300408.0,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,True,12,424,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,ACTOR IN A SUPPORTING ROLE,Tom Hardy,False,12,425,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,CINEMATOGRAPHY,Emmanuel Lubezki,True,12,426,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,COSTUME DESIGN,Jacqueline West,False,12,427,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,DIRECTING,Alejandro G. Iñárritu,True,12,428,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,FILM EDITING,Stephen Mirrione,False,12,429,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,MAKEUP AND HAIRSTYLING,"Siân Grigg, Duncan Jarman and Robert Pandini",False,12,430,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,BEST PICTURE,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",False,12,431,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,PRODUCTION DESIGN,Production Design: Jack Fisk; Set Decoration: Hamish Purdy,False,12,432,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,SOUND EDITING,Martin Hernandez and Lon Bender,False,12,433,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,SOUND MIXING,"Jon Taylor, Frank A. Montaño, Randy Thom and Chris Duesterdiek",False,12,434,88
+2015,the revenant,532938302.0,183637894.0,349300408.0,VISUAL EFFECTS,"Rich McBride, Matthew Shumway, Jason Smith and Cameron Waldbauer",False,12,435,88
+2008,wall-e,532508025.0,223808164.0,308699861.0,ANIMATED FEATURE FILM,Andrew Stanton,True,6,436,89
+2008,wall-e,532508025.0,223808164.0,308699861.0,MUSIC (Original Score),Thomas Newman,False,6,437,89
+2008,wall-e,532508025.0,223808164.0,308699861.0,MUSIC (Original Song),Music by Peter Gabriel and Thomas Newman; Lyric by Peter Gabriel,False,6,438,89
+2008,wall-e,532508025.0,223808164.0,308699861.0,SOUND EDITING,Ben Burtt and Matthew Wood,False,6,439,89
+2008,wall-e,532508025.0,223808164.0,308699861.0,SOUND MIXING,"Tom Myers, Michael Semanick and Ben Burtt",False,6,440,89
+2008,wall-e,532508025.0,223808164.0,308699861.0,WRITING (Original Screenplay),"Screenplay by Andrew Stanton, Jim Reardon; Original story by Andrew Stanton, Pete Docter",False,6,441,89
+2018,ralph breaks the internet,529290830.0,201091711.0,328199119.0,ANIMATED FEATURE FILM,"Rich Moore, Phil Johnston and Clark Spencer",False,1,443,90
+2017,dunkirk,519452014.0,190068280.0,329383734.0,CINEMATOGRAPHY,Hoyte van Hoytema,False,8,452,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,DIRECTING,Christopher Nolan,False,8,453,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,FILM EDITING,Lee Smith,True,8,454,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,MUSIC (Original Score),Hans Zimmer,False,8,455,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,BEST PICTURE,"Emma Thomas and Christopher Nolan, Producers",False,8,456,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Gary Fettis,False,8,457,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,SOUND EDITING,Richard King and Alex Gibson,True,8,458,91
+2017,dunkirk,519452014.0,190068280.0,329383734.0,SOUND MIXING,"Gregg Landaker, Gary A. Rizzo and Mark Weingarten",True,8,459,91
+1990,ghost,517600000.0,217631306.0,299968694.0,ACTRESS IN A SUPPORTING ROLE,Whoopi Goldberg,True,5,461,92
+1990,ghost,517600000.0,217631306.0,299968694.0,FILM EDITING,Walter Murch,False,5,462,92
+1990,ghost,517600000.0,217631306.0,299968694.0,MUSIC (Original Score),Maurice Jarre,False,5,463,92
+1990,ghost,517600000.0,217631306.0,299968694.0,BEST PICTURE,"Lisa Weinstein, Producer",False,5,464,92
+1990,ghost,517600000.0,217631306.0,299968694.0,WRITING (Screenplay Written Directly for the Screen),Bruce Joel Rubin,True,5,465,92
+1991,terminator 2: judgment day,515390883.0,203464105.0,311926778.0,CINEMATOGRAPHY,Adam Greenberg,False,6,467,93
+1991,terminator 2: judgment day,515390883.0,203464105.0,311926778.0,FILM EDITING,"Conrad Buff, Mark Goldblatt, Richard A. Harris",False,6,468,93
+1991,terminator 2: judgment day,515390883.0,203464105.0,311926778.0,MAKEUP,"Stan Winston, Jeff Dawn",True,6,469,93
+1991,terminator 2: judgment day,515390883.0,203464105.0,311926778.0,SOUND,"Tom Johnson, Gary Rydstrom, Gary Summers, Lee Orloff",True,6,470,93
+1991,terminator 2: judgment day,515390883.0,203464105.0,311926778.0,SOUND EFFECTS EDITING,"Gary Rydstrom, Gloria S. Borders",True,6,471,93
+1991,terminator 2: judgment day,515390883.0,203464105.0,311926778.0,VISUAL EFFECTS,"Dennis Muren, Stan Winston, Gene Warren, Jr., Robert Skotak",True,6,472,93
+1999,toy story 2,511358276.0,245852179.0,265506097.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,1,474,94
+2009,sherlock holmes,498438212.0,209028679.0,289409533.0,ART DIRECTION,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,False,2,475,95
+2009,sherlock holmes,498438212.0,209028679.0,289409533.0,MUSIC (Original Score),Hans Zimmer,False,2,476,95
+2012,wreck-it ralph,496511521.0,189412677.0,307098844.0,ANIMATED FEATURE FILM,Rich Moore,False,1,477,96
+1996,twister,495700000.0,241688385.0,254011615.0,SOUND,"Steve Maslow, Gregg Landaker, Kevin O'Connell, Geoffrey Patterson",False,2,478,97
+1996,twister,495700000.0,241688385.0,254011615.0,VISUAL EFFECTS,"Stefen Fangmeier, John Frazier, Habib Zargarpour, Henry La Bounta",False,2,479,97
+2010,how to train your dragon,494870992.0,217581232.0,277289760.0,ANIMATED FEATURE FILM,Chris Sanders and Dean DeBlois,False,2,480,98
+2010,how to train your dragon,494870992.0,217581232.0,277289760.0,MUSIC (Original Score),John Powell,False,2,481,98
+2001,shrek,491812794.0,267655011.0,224157783.0,ANIMATED FEATURE FILM,Aron Warner,True,2,484,99
+2001,shrek,491812794.0,267655011.0,224157783.0,WRITING (Screenplay Based on Material Previously Produced or Published),Written by Ted Elliott & Terry Rossio and Joe Stillman and Roger S.H. Schulman,False,2,485,99
+2017,war for the planet of the apes,489592267.0,146880162.0,342712105.0,VISUAL EFFECTS,"Joe Letteri, Daniel Barrett, Dan Lemmon and Joel Whist",False,1,488,100
+2019,maleficent: mistress of evil,489346495.0,113929605.0,375416890.0,MAKEUP AND HAIRSTYLING,"Paul Gooch, Arjen Tuiten and David White",False,1,489,101
+2011,rio,487519809.0,143619809.0,343900000.0,MUSIC (Original Song),Music by Sergio Mendes and Carlinhos Brown; Lyric by Siedah Garrett,False,1,490,102
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,ACTOR IN A LEADING ROLE,Tom Hanks,False,11,492,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,ART DIRECTION,Art Direction:  Tom Sanders;  Set Decoration:  Lisa Dean Kavanaugh,False,11,493,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,CINEMATOGRAPHY,Janusz Kaminski,True,11,494,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,DIRECTING,Steven Spielberg,True,11,495,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,FILM EDITING,Michael Kahn,True,11,496,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,MAKEUP,"Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke",False,11,497,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,MUSIC (Original Dramatic Score),John Williams,False,11,498,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,BEST PICTURE,"Steven Spielberg, Ian Bryce, Mark Gordon and Gary Levinsohn, Producers",False,11,499,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,SOUND,"Gary Rydstrom, Gary Summers, Andy Nelson, Ronald Judkins",True,11,500,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,SOUND EFFECTS EDITING,"Gary Rydstrom, Richard Hymns",True,11,501,103
+1998,saving private ryan,485035085.0,216335085.0,268700000.0,WRITING (Screenplay Written Directly for the Screen),Robert Rodat,False,11,502,103
+2004,troy,483152040.0,133298577.0,349853463.0,COSTUME DESIGN,Bob Ringwood,False,1,506,104
+1990,home alone,476684675.0,285761243.0,190923432.0,MUSIC (Original Score),John Williams,False,2,507,105
+1990,home alone,476684675.0,285761243.0,190923432.0,MUSIC (Original Song),Music by John Williams; Lyric by Leslie Bricusse,False,2,508,105
+2005,charlie and the chocolate factory,475825484.0,206459076.0,269366408.0,COSTUME DESIGN,Gabriella Pescucci,False,1,509,106
+1989,indiana jones and the last crusade,474171806.0,197171806.0,277000000.0,MUSIC (Original Score),John Williams,False,3,511,107
+1989,indiana jones and the last crusade,474171806.0,197171806.0,277000000.0,SOUND,"Ben Burtt, Gary Summers, Shawn Murphy, Tony Dawe",False,3,512,107
+1989,indiana jones and the last crusade,474171806.0,197171806.0,277000000.0,SOUND EFFECTS EDITING,"Ben Burtt, Richard Hymns",True,3,513,107
+2011,rise of the planet of the apes,470986200.0,176760185.0,294226015.0,VISUAL EFFECTS,"Joe Letteri, Dan Lemmon, R. Christopher White and Daniel Barrett",False,1,514,108
+1975,jaws,470700000.0,260000000.0,210700000.0,FILM EDITING,Verna Fields,True,4,515,109
+1975,jaws,470700000.0,260000000.0,210700000.0,MUSIC (Original Score),John Williams,True,4,516,109
+1975,jaws,470700000.0,260000000.0,210700000.0,BEST PICTURE,"Richard D. Zanuck and David Brown, Producers",False,4,517,109
+1975,jaws,470700000.0,260000000.0,210700000.0,SOUND,"Robert L. Hoyt, Roger Heman, Earl Madery, John Carter",True,4,518,109
+2014,the lego movie,468084718.0,257784718.0,210300000.0,MUSIC (Original Song),Music and Lyric by Shawn Patterson,False,1,521,110
+2013,star trek into darkness,467381584.0,228778661.0,238602923.0,VISUAL EFFECTS,"Roger Guyett, Patrick Tubach, Ben Grossmann and Burt Dalton",False,1,522,111
+1999,the matrix,465377200.0,173396389.0,291980811.0,FILM EDITING,Zach Staenberg,True,4,525,112
+1999,the matrix,465377200.0,173396389.0,291980811.0,SOUND,"John Reitz, Gregg Rudloff, David Campbell, David Lee",True,4,526,112
+1999,the matrix,465377200.0,173396389.0,291980811.0,SOUND EFFECTS EDITING,Dane A. Davis,True,4,527,112
+1999,the matrix,465377200.0,173396389.0,291980811.0,VISUAL EFFECTS,"John Gaeta, Janek Sirrs, Steve Courtley, Jon Thum",True,4,528,112
+2006,cars,461630558.0,244082982.0,217547576.0,ANIMATED FEATURE FILM,John Lasseter,False,2,530,113
+2006,cars,461630558.0,244082982.0,217547576.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,2,531,113
+2000,gladiator,457552323.0,187683805.0,269868518.0,ACTOR IN A LEADING ROLE,Russell Crowe,True,12,534,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,ACTOR IN A SUPPORTING ROLE,Joaquin Phoenix,False,12,535,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,ART DIRECTION,Art Direction:  Arthur Max;  Set Decoration:  Crispian Sallis,False,12,536,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,CINEMATOGRAPHY,John Mathieson,False,12,537,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,COSTUME DESIGN,Janty Yates,True,12,538,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,DIRECTING,Ridley Scott,False,12,539,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,FILM EDITING,Pietro Scalia,False,12,540,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,MUSIC (Original Score),Hans Zimmer,False,12,541,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,BEST PICTURE,"Douglas Wick, David Franzoni and Branko Lustig, Producers",True,12,542,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,SOUND,"Scott Millan, Bob Beemer, Ken Weston",True,12,543,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,VISUAL EFFECTS,"John Nelson, Neil Corbould, Tim Burke, Rob Harvey",True,12,544,114
+2000,gladiator,457552323.0,187683805.0,269868518.0,WRITING (Screenplay Written Directly for the Screen),Screenplay by David Franzoni and John Logan and William Nicholson;  Story by David Franzoni,False,12,545,114
+2003,the last samurai,456810575.0,111110575.0,345700000.0,ACTOR IN A SUPPORTING ROLE,Ken Watanabe,False,4,548,115
+2003,the last samurai,456810575.0,111110575.0,345700000.0,ART DIRECTION,Art Direction: Lilly Kilvert; Set Decoration: Gretchen Rau,False,4,549,115
+2003,the last samurai,456810575.0,111110575.0,345700000.0,COSTUME DESIGN,Ngila Dickson,False,4,550,115
+2003,the last samurai,456810575.0,111110575.0,345700000.0,SOUND MIXING,"Andy Nelson, Anna Behlmer and Jeff Wexler",False,4,551,115
+2012,django unchained,449841566.0,162805434.0,287036132.0,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,True,5,556,116
+2012,django unchained,449841566.0,162805434.0,287036132.0,CINEMATOGRAPHY,Robert Richardson,False,5,557,116
+2012,django unchained,449841566.0,162805434.0,287036132.0,BEST PICTURE,"Stacey Sher, Reginald Hudlin and Pilar Savone, Producers",False,5,558,116
+2012,django unchained,449841566.0,162805434.0,287036132.0,SOUND EDITING,Wylie Stateman,False,5,559,116
+2012,django unchained,449841566.0,162805434.0,287036132.0,WRITING (Original Screenplay),Written by Quentin Tarantino,True,5,560,116
+2001,pearl harbor,449239853.0,198539855.0,250699998.0,MUSIC (Original Song),Music and Lyric by Diane Warren,False,4,562,117
+2001,pearl harbor,449239853.0,198539855.0,250699998.0,SOUND,"Kevin O'Connell, Greg P. Russell, Peter J. Devlin",False,4,563,117
+2001,pearl harbor,449239853.0,198539855.0,250699998.0,SOUND EDITING,"George Watters II, Christopher Boyes",True,4,564,117
+2001,pearl harbor,449239853.0,198539855.0,250699998.0,VISUAL EFFECTS,"Eric Brevig, John Frazier, Ed Hirsh, Ben Snow",False,4,565,117
+1999,tarzan,448191819.0,171091819.0,277100000.0,MUSIC (Original Song),Music and Lyric by Phil Collins,True,1,566,118
+2016,la la land,445607848.0,151101803.0,294506045.0,ACTOR IN A LEADING ROLE,Ryan Gosling,False,14,568,119
+2016,la la land,445607848.0,151101803.0,294506045.0,ACTRESS IN A LEADING ROLE,Emma Stone,True,14,569,119
+2016,la la land,445607848.0,151101803.0,294506045.0,CINEMATOGRAPHY,Linus Sandgren,True,14,570,119
+2016,la la land,445607848.0,151101803.0,294506045.0,COSTUME DESIGN,Mary Zophres,False,14,571,119
+2016,la la land,445607848.0,151101803.0,294506045.0,DIRECTING,Damien Chazelle,True,14,572,119
+2016,la la land,445607848.0,151101803.0,294506045.0,FILM EDITING,Tom Cross,False,14,573,119
+2016,la la land,445607848.0,151101803.0,294506045.0,MUSIC (Original Score),Justin Hurwitz,True,14,574,119
+2016,la la land,445607848.0,151101803.0,294506045.0,MUSIC (Original Song),Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul,False,14,575,119
+2016,la la land,445607848.0,151101803.0,294506045.0,MUSIC (Original Song),Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul,True,14,576,119
+2016,la la land,445607848.0,151101803.0,294506045.0,BEST PICTURE,"Fred Berger, Jordan Horowitz and Marc Platt, Producers",False,14,577,119
+2016,la la land,445607848.0,151101803.0,294506045.0,PRODUCTION DESIGN,Production Design: David Wasco; Set Decoration: Sandy Reynolds-Wasco,True,14,578,119
+2016,la la land,445607848.0,151101803.0,294506045.0,SOUND EDITING,Ai-Ling Lee and Mildred Iatrou Morgan,False,14,579,119
+2016,la la land,445607848.0,151101803.0,294506045.0,SOUND MIXING,"Andy Nelson, Ai-Ling Lee and Steve A. Morrow",False,14,580,119
+2016,la la land,445607848.0,151101803.0,294506045.0,WRITING (Original Screenplay),Written by Damien Chazelle,False,14,581,119
+2007,the bourne ultimatum,444043396.0,227471070.0,216572326.0,FILM EDITING,Christopher Rouse,True,3,582,120
+2007,the bourne ultimatum,444043396.0,227471070.0,216572326.0,SOUND EDITING,Karen Baker Landers and Per Hallberg,True,3,583,120
+2007,the bourne ultimatum,444043396.0,227471070.0,216572326.0,SOUND MIXING,"Scott Millan, David Parker and Kirk Francis",True,3,584,120
+1993,mrs. doubtfire,441286003.0,219195051.0,222090952.0,MAKEUP,"Greg Cannom, Ve Neill, Yolanda Toussieng",True,1,587,121
+2017,the greatest showman,434473253.0,174340174.0,260133079.0,MUSIC (Original Song),Music and Lyric by Benj Pasek and Justin Paul,False,1,591,122
+1990,pretty woman,432566361.0,178406268.0,254160093.0,ACTRESS IN A LEADING ROLE,Julia Roberts,False,1,593,123
+2018,a star is born,431870523.0,215288866.0,216581657.0,ACTOR,James Mason,False,18,597,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,ACTRESS,Judy Garland,False,18,598,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,ART DIRECTION (Color),"Art Direction:  Malcolm Bert, Gene Allen, Irene Sharaff;  Set Decoration:  George James Hopkins",False,18,599,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,COSTUME DESIGN (Color),"Jean Louis, Mary Ann Nyberg, Irene Sharaff",False,18,600,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,MUSIC (Scoring of a Musical Picture),Ray Heindorf,False,18,601,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,MUSIC (Song),Music by Harold Arlen; Lyrics by Ira Gershwin,False,18,602,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,CINEMATOGRAPHY,Robert Surtees,False,18,603,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Roger Kellaway,False,18,604,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,MUSIC (Original Song),Music by Barbra Streisand; Lyrics by Paul Williams,True,18,605,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,SOUND,"Robert Knudson, Dan Wallin, Robert Glass, Tom Overton",False,18,606,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,ACTOR IN A LEADING ROLE,Bradley Cooper,False,18,607,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,ACTOR IN A SUPPORTING ROLE,Sam Elliott,False,18,608,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,ACTRESS IN A LEADING ROLE,Lady Gaga,False,18,609,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,CINEMATOGRAPHY,Matthew Libatique,False,18,610,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,MUSIC (Original Song),"Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",True,18,611,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,BEST PICTURE,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",False,18,612,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,SOUND MIXING,"Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",False,18,613,124
+2018,a star is born,431870523.0,215288866.0,216581657.0,WRITING (Adapted Screenplay),Screenplay by Eric Roth and Bradley Cooper & Will Fetters,False,18,614,124
+1973,the exorcist,428214478.0,230347346.0,197867132.0,ACTOR IN A SUPPORTING ROLE,Jason Miller,False,10,616,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,ACTRESS,Ellen Burstyn,False,10,617,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,ACTRESS IN A SUPPORTING ROLE,Linda Blair,False,10,618,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,ART DIRECTION,Art Direction:  Bill Malley;  Set Decoration:  Jerry Wunderlich,False,10,619,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,CINEMATOGRAPHY,Owen Roizman,False,10,620,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,DIRECTING,William Friedkin,False,10,621,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,FILM EDITING,"Jordan Leondopoulos, Bud Smith, Evan Lottman, Norman Gay",False,10,622,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,BEST PICTURE,"William Peter Blatty, Producer",False,10,623,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,SOUND,"Robert Knudson, Chris Newman",True,10,624,125
+1973,the exorcist,428214478.0,230347346.0,197867132.0,WRITING (Screenplay--based on material from another medium),William Peter Blatty,True,10,625,125
+2000,cast away,427230516.0,233632142.0,193598374.0,ACTOR IN A LEADING ROLE,Tom Hanks,False,2,628,126
+2000,cast away,427230516.0,233632142.0,193598374.0,SOUND,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",False,2,629,126
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,ACTOR IN A LEADING ROLE,Kevin Costner,False,12,630,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,ACTOR IN A SUPPORTING ROLE,Graham Greene,False,12,631,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,ACTRESS IN A SUPPORTING ROLE,Mary McDonnell,False,12,632,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,ART DIRECTION,Art Direction:  Jeffrey Beecroft;  Set Decoration:  Lisa Dean,False,12,633,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,CINEMATOGRAPHY,Dean Semler,True,12,634,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,COSTUME DESIGN,Elsa Zamparelli,False,12,635,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,DIRECTING,Kevin Costner,True,12,636,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,FILM EDITING,Neil Travis,True,12,637,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,MUSIC (Original Score),John Barry,True,12,638,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,BEST PICTURE,"Jim Wilson and Kevin Costner, Producers",True,12,639,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,SOUND,"Jeffrey Perkins, Bill W. Benton, Greg Watkins, Russell Williams II",True,12,640,127
+1990,dances with wolves,424208805.0,184208842.0,239999963.0,WRITING (Screenplay Based on Material from Another Medium),Michael Blake,True,12,641,127
+1999,the mummy,416385488.0,155385488.0,261000000.0,SOUND,"Leslie Shatz, Chris Carpenter, Rick Kline, Chris Munro",False,2,646,128
+2017,the mummy,409953905.0,80101125.0,329852780.0,SOUND,"Leslie Shatz, Chris Carpenter, Rick Kline, Chris Munro",False,2,647,128
+1988,rain man,412800000.0,172825435.0,239974565.0,ACTOR IN A LEADING ROLE,Dustin Hoffman,True,8,650,129
+1988,rain man,412800000.0,172825435.0,239974565.0,ART DIRECTION,Art Direction:  Ida Random;  Set Decoration:  Linda DeScenna,False,8,651,129
+1988,rain man,412800000.0,172825435.0,239974565.0,CINEMATOGRAPHY,John Seale,False,8,652,129
+1988,rain man,412800000.0,172825435.0,239974565.0,DIRECTING,Barry Levinson,True,8,653,129
+1988,rain man,412800000.0,172825435.0,239974565.0,FILM EDITING,Stu Linder,False,8,654,129
+1988,rain man,412800000.0,172825435.0,239974565.0,MUSIC (Original Score),Hans Zimmer,False,8,655,129
+1988,rain man,412800000.0,172825435.0,239974565.0,BEST PICTURE,"Mark Johnson, Producer",True,8,656,129
+1988,rain man,412800000.0,172825435.0,239974565.0,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Ronald Bass, Barry Morrow;  Story by Barry Morrow",True,8,657,129
+1989,batman,411348924.0,251188924.0,160160000.0,ART DIRECTION,Art Direction:  Anton Furst;  Set Decoration:  Peter Young,True,1,658,130
+2012,prometheus,402448265.0,126477084.0,275971181.0,VISUAL EFFECTS,"Richard Stammers, Trevor Wood, Charley Henley and Martin Hill",False,1,665,131
+2012,snow white and the huntsman,401021746.0,155136755.0,245884991.0,COSTUME DESIGN,Colleen Atwood,False,2,670,132
+2012,snow white and the huntsman,401021746.0,155136755.0,245884991.0,VISUAL EFFECTS,"Cedric Nicolas-Troyan, Philip Brennan, Neil Corbould and Michael Dawson",False,2,671,132
+2010,tron: legacy,399866199.0,172062763.0,227803436.0,SOUND EDITING,Gwendolyn Yates Whittle and Addison Teague,False,1,672,133
+2018,solo: a star wars story,393151347.0,213767512.0,179383835.0,VISUAL EFFECTS,"Rob Bredow, Patrick Tubach, Neal Scanlan and Dominic Tuohy",False,1,675,134
+2006,superman returns,391081192.0,200120000.0,190961192.0,VISUAL EFFECTS,"Mark Stetson, Neil Corbould, Richard R. Hoover and Jon Thum",False,1,676,135
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,ACTOR,Clark Gable,False,13,677,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,ACTRESS,Vivien Leigh,True,13,678,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,False,13,679,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,True,13,680,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,ART DIRECTION,Lyle Wheeler,True,13,681,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,CINEMATOGRAPHY (Color),"Ernest Haller, Ray Rennahan",True,13,682,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,DIRECTING,Victor Fleming,True,13,683,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,FILM EDITING,"Hal C. Kern, James E. Newcom",True,13,684,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,MUSIC (Original Score),Max Steiner,False,13,685,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,OUTSTANDING PRODUCTION,Selznick International Pictures,True,13,686,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",False,13,687,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,SPECIAL EFFECTS,"John R. Cosgrove, Fred Albin, Arthur Johns",False,13,688,136
+1939,gone with the wind,390525192.0,198680470.0,191844722.0,WRITING (Screenplay),Sidney Howard,True,13,689,136
+1991,robin hood: prince of thieves,390500000.0,165493908.0,225006092.0,MUSIC (Original Song),Music by Michael Kamen; Lyric by Bryan Adams and Robert John Lange,False,1,690,137
+2013,the wolf of wall street,389918903.0,116949183.0,272969720.0,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,False,5,691,138
+2013,the wolf of wall street,389918903.0,116949183.0,272969720.0,ACTOR IN A SUPPORTING ROLE,Jonah Hill,False,5,692,138
+2013,the wolf of wall street,389918903.0,116949183.0,272969720.0,DIRECTING,Martin Scorsese,False,5,693,138
+2013,the wolf of wall street,389918903.0,116949183.0,272969720.0,BEST PICTURE,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland and Emma Tillinger Koskoff, Producers",False,5,694,138
+2013,the wolf of wall street,389918903.0,116949183.0,272969720.0,WRITING (Adapted Screenplay),Screenplay by Terence Winter,False,5,695,138
+1978,grease,387483897.0,181813770.0,205670127.0,MUSIC (Original Song),Music and Lyrics by John Farrar,False,1,696,139
+2009,star trek,386839614.0,257730019.0,129109595.0,MAKEUP,"Barney Burman, Mindy Hall and Joel Harlow",True,4,697,140
+2009,star trek,386839614.0,257730019.0,129109595.0,SOUND EDITING,Mark Stoeckinger and Alan Rankin,False,4,698,140
+2009,star trek,386839614.0,257730019.0,129109595.0,SOUND MIXING,"Anna Behlmer, Andy Nelson and Peter J. Devlin",False,4,699,140
+2009,star trek,386839614.0,257730019.0,129109595.0,VISUAL EFFECTS,"Roger Guyett, Russell Earl, Paul Kavanagh and Burt Dalton",False,4,700,140
+2002,ice age,386116343.0,176387405.0,209728938.0,ANIMATED FEATURE FILM,Chris Wedge,False,1,701,141
+1985,back to the future,385510205.0,212259762.0,173250443.0,MUSIC (Original Song),Music by Chris Hayes and Johnny Colla; Lyric by Huey Lewis,False,4,703,142
+1985,back to the future,385510205.0,212259762.0,173250443.0,SOUND,"Bill Varney, B. Tennyson Sebastian II, Robert Thirlwell, William B. Kaplan",False,4,704,142
+1985,back to the future,385510205.0,212259762.0,173250443.0,SOUND EFFECTS EDITING,"Charles L. Campbell, Robert Rutledge",True,4,705,142
+1985,back to the future,385510205.0,212259762.0,173250443.0,WRITING (Screenplay Written Directly for the Screen),"Robert Zemeckis, Bob Gale",False,4,706,142
+2006,happy feet,385000317.0,198000317.0,187000000.0,ANIMATED FEATURE FILM,George Miller,True,1,707,143
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,CINEMATOGRAPHY,Anthony Dod Mantle,True,10,709,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,DIRECTING,Danny Boyle,True,10,710,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,FILM EDITING,Chris Dickens,True,10,711,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,MUSIC (Original Score),A.R. Rahman,True,10,712,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,MUSIC (Original Song),Music by A.R. Rahman; Lyric by Gulzar,True,10,713,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,MUSIC (Original Song),Music and Lyric by A.R. Rahman and Maya Arulpragasam,False,10,714,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,BEST PICTURE,"Christian Colson, Producer",True,10,715,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,SOUND EDITING,Glenn Freemantle and Tom Sayers,False,10,716,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,SOUND MIXING,"Ian Tapp, Richard Pryke and Resul Pookutty",True,10,717,144
+2008,slumdog millionaire,383825427.0,141330703.0,242494724.0,WRITING (Adapted Screenplay),Screenplay by Simon Beaufoy,True,10,718,144
+2002,my big fat greek wedding,374890034.0,241438208.0,133451826.0,WRITING (Original Screenplay),Written by Nia Vardalos,False,1,730,145
+2011,the adventures of tintin,373993951.0,77591831.0,296402120.0,MUSIC (Original Score),John Williams,False,1,733,146
+2004,shark tale,371741123.0,161412000.0,210329123.0,ANIMATED FEATURE FILM,Bill Damaschke,False,1,735,147
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,CINEMATOGRAPHY,John Seale,False,10,738,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,COSTUME DESIGN,Jenny Beavan,True,10,739,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,DIRECTING,George Miller,False,10,740,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,FILM EDITING,Margaret Sixel,True,10,741,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,MAKEUP AND HAIRSTYLING,"Lesley Vanderwalt, Elka Wardega and Damian Martin",True,10,742,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,BEST PICTURE,"Doug Mitchell and George Miller, Producers",False,10,743,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,PRODUCTION DESIGN,Production Design: Colin Gibson; Set Decoration: Lisa Thompson,True,10,744,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,SOUND EDITING,Mark Mangini and David White,True,10,745,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,SOUND MIXING,"Chris Jenkins, Gregg Rudloff and Ben Osmo",True,10,746,148
+2015,mad max: fury road,367457874.0,153636354.0,213821520.0,VISUAL EFFECTS,"Andrew Jackson, Tom Wood, Dan Oliver and Andy Williams",False,10,747,148
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,ART DIRECTION,"Art Direction:  Norman Reynolds, Leslie Dilley;  Set Decoration:  Michael Ford",True,9,748,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,CINEMATOGRAPHY,Douglas Slocombe,False,9,749,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,DIRECTING,Steven Spielberg,False,9,750,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,FILM EDITING,Michael Kahn,True,9,751,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,MUSIC (Original Score),John Williams,False,9,752,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,BEST PICTURE,"Frank Marshall, Producer",False,9,753,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,SOUND,"Bill Varney, Steve Maslow, Gregg Landaker, Roy Charman",True,9,754,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,VISUAL EFFECTS,"Richard Edlund, Kit West, Bruce Nicholson, Joe Johnston",True,9,755,149
+1981,raiders of the lost ark,367452079.0,225686079.0,141766000.0,SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing),"Ben Burtt, Richard L. Anderson",True,9,756,149
+2007,the golden compass,367262558.0,70107728.0,297154830.0,ART DIRECTION,Art Direction: Dennis Gassner; Set Decoration: Anna Pinnock,False,2,757,150
+2007,the golden compass,367262558.0,70107728.0,297154830.0,VISUAL EFFECTS,"Michael Fink, Bill Westenhofer, Ben Morris and Trevor Wood",True,2,758,150
+2014,gone girl,367160781.0,167767189.0,199393592.0,ACTRESS IN A LEADING ROLE,Rosamund Pike,False,1,759,151
+2019,1917,366614721.0,159227644.0,207387077.0,CINEMATOGRAPHY,Roger Deakins,True,10,763,152
+2019,1917,366614721.0,159227644.0,207387077.0,DIRECTING,Sam Mendes,False,10,764,152
+2019,1917,366614721.0,159227644.0,207387077.0,MAKEUP AND HAIRSTYLING,"Naomi Donne, Tristan Versluis and Rebecca Cole",False,10,765,152
+2019,1917,366614721.0,159227644.0,207387077.0,MUSIC (Original Score),Thomas Newman,False,10,766,152
+2019,1917,366614721.0,159227644.0,207387077.0,BEST PICTURE,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",False,10,767,152
+2019,1917,366614721.0,159227644.0,207387077.0,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Lee Sandales,False,10,768,152
+2019,1917,366614721.0,159227644.0,207387077.0,SOUND EDITING,Oliver Tarney and Rachael Tate,False,10,769,152
+2019,1917,366614721.0,159227644.0,207387077.0,SOUND MIXING,Mark Taylor and Stuart Wilson,True,10,770,152
+2019,1917,366614721.0,159227644.0,207387077.0,VISUAL EFFECTS,"Guillaume Rocheron, Greg Butler and Dominic Tuohy",True,10,771,152
+2019,1917,366614721.0,159227644.0,207387077.0,WRITING (Original Screenplay),Written by Sam Mendes & Krysty Wilson-Cairns,False,10,772,152
+1994,true lies,365300000.0,146282411.0,219017589.0,VISUAL EFFECTS,"John Bruno, Thomas L. Fisher, Jacques Stroweis, Patrick McClung",False,1,776,153
+1995,toy story,365270951.0,192523233.0,172747718.0,MUSIC (Original Musical or Comedy Score),Randy Newman,False,3,777,154
+1995,toy story,365270951.0,192523233.0,172747718.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,3,778,154
+1995,toy story,365270951.0,192523233.0,172747718.0,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow;  Story by John Lasseter, Peter Docter, Andrew Stanton, Joe Ranft",False,3,779,154
+1998,a bug's life,363095319.0,162798565.0,200296754.0,MUSIC (Original Musical or Comedy Score),Randy Newman,False,1,783,155
+2001,planet of the apes,362211740.0,180011740.0,182200000.0,COSTUME DESIGN,Morton Haack,False,2,786,156
+2001,planet of the apes,362211740.0,180011740.0,182200000.0,MUSIC (Original Score--for a motion picture [not a musical]),Jerry Goldsmith,False,2,787,156
+2005,batman begins,359004502.0,205343774.0,153660728.0,CINEMATOGRAPHY,Wally Pfister,False,1,793,157
+2002,minority report,358824714.0,132024714.0,226800000.0,SOUND EDITING,"Richard Hymns, Gary Rydstrom",False,1,795,158
+1986,top gun,357011945.0,180012912.0,176999033.0,FILM EDITING,"Billy Weber, Chris Lebenzon",False,4,798,159
+1986,top gun,357011945.0,180012912.0,176999033.0,MUSIC (Original Song),Music by Giorgio Moroder; Lyric by Tom Whitlock,True,4,799,159
+1986,top gun,357011945.0,180012912.0,176999033.0,SOUND,"Donald O. Mitchell, Kevin O'Connell, Rick Kline, William B. Kaplan",False,4,800,159
+1986,top gun,357011945.0,180012912.0,176999033.0,SOUND EFFECTS EDITING,"Cecelia Hall, George Watters II",False,4,801,159
+1999,american beauty,356258047.0,130058047.0,226200000.0,ACTOR IN A LEADING ROLE,Kevin Spacey,True,8,803,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,ACTRESS IN A LEADING ROLE,Annette Bening,False,8,804,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,CINEMATOGRAPHY,Conrad L. Hall,True,8,805,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,DIRECTING,Sam Mendes,True,8,806,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,FILM EDITING,"Tariq Anwar, Christopher Greenbury",False,8,807,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,MUSIC (Original Score),Thomas Newman,False,8,808,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,BEST PICTURE,"Bruce Cohen and Dan Jinks, Producers",True,8,809,160
+1999,american beauty,356258047.0,130058047.0,226200000.0,WRITING (Screenplay Written Directly for the Screen),Alan Ball,True,8,810,160
+2002,catch me if you can,355612291.0,164606800.0,191005491.0,ACTOR IN A SUPPORTING ROLE,Christopher Walken,False,2,812,161
+2002,catch me if you can,355612291.0,164606800.0,191005491.0,MUSIC (Original Score),John Williams,False,2,813,161
+1993,the fugitive,353715317.0,183875760.0,169839557.0,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,True,7,816,162
+1993,the fugitive,353715317.0,183875760.0,169839557.0,CINEMATOGRAPHY,Michael Chapman,False,7,817,162
+1993,the fugitive,353715317.0,183875760.0,169839557.0,FILM EDITING,"Dennis Virkler, David Finfer, Dean Goodhill, Don Brochu, Richard Nord, Dov Hoenig",False,7,818,162
+1993,the fugitive,353715317.0,183875760.0,169839557.0,MUSIC (Original Score),James Newton Howard,False,7,819,162
+1993,the fugitive,353715317.0,183875760.0,169839557.0,BEST PICTURE,"Arnold Kopelson, Producer",False,7,820,162
+1993,the fugitive,353715317.0,183875760.0,169839557.0,SOUND,"Donald O. Mitchell, Michael Herbick, Frank A. Montaño, Scott D. Smith",False,7,821,162
+1993,the fugitive,353715317.0,183875760.0,169839557.0,SOUND EFFECTS EDITING,"John Leveque, Bruce Stambler",False,7,822,162
+2013,the great gatsby,353640419.0,144840419.0,208800000.0,COSTUME DESIGN,Theoni V. Aldredge,True,4,823,163
+2013,the great gatsby,353640419.0,144840419.0,208800000.0,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Adaptation Score by Nelson Riddle,True,4,824,163
+2013,the great gatsby,353640419.0,144840419.0,208800000.0,COSTUME DESIGN,Catherine Martin,True,4,825,163
+2013,the great gatsby,353640419.0,144840419.0,208800000.0,PRODUCTION DESIGN,Production Design: Catherine Martin; Set Decoration: Beverley Dunn,True,4,826,163
+2019,dumbo,353166307.0,114766307.0,238400000.0,MUSIC (Scoring of a Musical Picture),"Frank Churchill, Oliver Wallace",True,2,827,164
+2019,dumbo,353166307.0,114766307.0,238400000.0,MUSIC (Song),Music by Frank Churchill; Lyrics by Ned Washington,False,2,828,164
+1992,basic instinct,352700000.0,117727224.0,234972776.0,FILM EDITING,Frank J. Urioste,False,2,830,165
+1992,basic instinct,352700000.0,117727224.0,234972776.0,MUSIC (Original Score),Jerry Goldsmith,False,2,831,165
+2010,the karate kid,351774938.0,176591618.0,175183320.0,ACTOR IN A SUPPORTING ROLE,Noriyuki 'Pat' Morita,False,1,833,166
+2017,murder on the orient express,351767147.0,102826543.0,248940604.0,ACTOR,Albert Finney,False,6,834,167
+2017,murder on the orient express,351767147.0,102826543.0,248940604.0,ACTRESS IN A SUPPORTING ROLE,Ingrid Bergman,True,6,835,167
+2017,murder on the orient express,351767147.0,102826543.0,248940604.0,CINEMATOGRAPHY,Geoffrey Unsworth,False,6,836,167
+2017,murder on the orient express,351767147.0,102826543.0,248940604.0,COSTUME DESIGN,Tony Walton,False,6,837,167
+2017,murder on the orient express,351767147.0,102826543.0,248940604.0,MUSIC (Original Dramatic Score),Richard Rodney Bennett,False,6,838,167
+2017,murder on the orient express,351767147.0,102826543.0,248940604.0,WRITING (Screenplay Adapted from Other Material),Paul Dehn,False,6,839,167
+1994,the mask,351620129.0,119920129.0,231700000.0,VISUAL EFFECTS,"Scott Squires, Steve Williams, Tom Bertino, Jon Farhat",False,1,840,168
+2018,mary poppins returns,348901032.0,171958438.0,176942594.0,COSTUME DESIGN,Sandy Powell,False,4,846,169
+2018,mary poppins returns,348901032.0,171958438.0,176942594.0,MUSIC (Original Score),Marc Shaiman,False,4,847,169
+2018,mary poppins returns,348901032.0,171958438.0,176942594.0,MUSIC (Original Song),Music by Marc Shaiman; Lyric by Scott Wittman and Marc Shaiman,False,4,848,169
+2018,mary poppins returns,348901032.0,171958438.0,176942594.0,PRODUCTION DESIGN,Production Design: John Myhre; Set Decoration: Gordon Sim,False,4,849,169
+2004,"i, robot",348629585.0,144801023.0,203828562.0,VISUAL EFFECTS,"John Nelson, Andrew R. Jones, Erik Nash and Joe Letteri",False,1,850,170
+1995,pocahontas,347100000.0,141579773.0,205520227.0,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,True,2,854,171
+1995,pocahontas,347100000.0,141579773.0,205520227.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,True,2,855,171
+2016,trolls,343242613.0,153707064.0,189535549.0,MUSIC (Original Song),"Music and Lyric by Justin Timberlake, Max Martin and Karl Johan Schuster",False,1,860,172
+2008,wanted,342416460.0,134508551.0,207907909.0,SOUND EDITING,Wylie Stateman,False,2,862,173
+2008,wanted,342416460.0,134508551.0,207907909.0,SOUND MIXING,"Chris Jenkins, Frank A. Montaño and Petr Forejt",False,2,863,173
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,ACTRESS IN A SUPPORTING ROLE,Melinda Dillon,False,9,864,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,ART DIRECTION,"Art Direction:  Joe Alves, Dan Lomino;  Set Decoration:  Phil Abramson",False,9,865,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,CINEMATOGRAPHY,Vilmos Zsigmond,True,9,866,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,DIRECTING,Steven Spielberg,False,9,867,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,FILM EDITING,Michael Kahn,False,9,868,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,MUSIC (Original Score),John Williams,False,9,869,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,SOUND,"Robert Knudson, Robert J. Glass, Don MacDougall, Gene S. Cantamessa",False,9,870,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,VISUAL EFFECTS,"Roy Arbogast, Douglas Trumbull, Matthew Yuricich, Gregory Jein, Richard Yuricich",False,9,871,174
+1977,close encounters of the third kind,340800479.0,169100479.0,171700000.0,SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing),Frank E. Warner,True,9,872,174
+2007,enchanted,340384141.0,127706877.0,212677264.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,False,3,873,175
+2007,enchanted,340384141.0,127706877.0,212677264.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,False,3,874,175
+2007,enchanted,340384141.0,127706877.0,212677264.0,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,False,3,875,175
+1995,batman forever,336529144.0,184031112.0,152498032.0,CINEMATOGRAPHY,Stephen Goldblatt,False,3,877,176
+1995,batman forever,336529144.0,184031112.0,152498032.0,SOUND,"Donald O. Mitchell, Frank A. Montaño, Michael Herbick, Petur Hliddal",False,3,878,176
+1995,batman forever,336529144.0,184031112.0,152498032.0,SOUND EFFECTS EDITING,"John Leveque, Bruce Stambler",False,3,879,176
+1996,the rock,336069511.0,134069511.0,202000000.0,SOUND,"Kevin O'Connell, Greg P. Russell, Keith A. Wester",False,1,881,177
+1995,apollo 13,335802271.0,173772767.0,162029504.0,ACTOR IN A SUPPORTING ROLE,Ed Harris,False,9,882,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,ACTRESS IN A SUPPORTING ROLE,Kathleen Quinlan,False,9,883,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,ART DIRECTION,Art Direction:  Michael Corenblith;  Set Decoration:  Merideth Boswell,False,9,884,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,FILM EDITING,"Mike Hill, Dan Hanley",True,9,885,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,MUSIC (Original Dramatic Score),James Horner,False,9,886,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,BEST PICTURE,"Brian Grazer, Producer",False,9,887,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,SOUND,"Rick Dior, Steve Pederson, Scott Millan, David MacMillan",True,9,888,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,VISUAL EFFECTS,"Robert Legato, Michael Kanfer, Leslie Ekker, Matt Sweeney",False,9,889,178
+1995,apollo 13,335802271.0,173772767.0,162029504.0,WRITING (Screenplay Based on Material Previously Produced or Published),"William Broyles, Jr., Al Reinert",False,9,890,178
+2016,star trek beyond,335673708.0,158848340.0,176825368.0,MAKEUP AND HAIRSTYLING,Joel Harlow and Richard Alonzo,False,1,891,179
+2018,a quiet place,334876670.0,188024361.0,146852309.0,SOUND EDITING,Ethan Van der Ryn and Erik Aadahl,False,1,892,180
+1984,indiana jones and the temple of doom,333080271.0,179880271.0,153200000.0,MUSIC (Original Score),John Williams,False,2,896,181
+1984,indiana jones and the temple of doom,333080271.0,179880271.0,153200000.0,VISUAL EFFECTS,"Dennis Muren, Michael McAlister, Lorne Peterson, George Gibbs",True,2,897,181
+1989,back to the future part ii,331971881.0,118450002.0,213521879.0,VISUAL EFFECTS,"Ken Ralston, Michael Lantieri, John Bell, Steve Gawley",False,1,898,182
+2010,black swan,331266710.0,106954678.0,224312032.0,ACTRESS IN A LEADING ROLE,Natalie Portman,True,5,901,183
+2010,black swan,331266710.0,106954678.0,224312032.0,CINEMATOGRAPHY,Matthew Libatique,False,5,902,183
+2010,black swan,331266710.0,106954678.0,224312032.0,DIRECTING,Darren Aronofsky,False,5,903,183
+2010,black swan,331266710.0,106954678.0,224312032.0,FILM EDITING,Andrew Weisblum,False,5,904,183
+2010,black swan,331266710.0,106954678.0,224312032.0,BEST PICTURE,"Mike Medavoy, Brian Oliver and Scott Franklin, Producers",False,5,905,183
+2000,meet the parents,330425040.0,166225040.0,164200000.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,1,907,184
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,ACTOR IN A LEADING ROLE,Brad Pitt,False,13,908,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,ACTRESS IN A SUPPORTING ROLE,Taraji P. Henson,False,13,909,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,ART DIRECTION,Art Direction: Donald Graham Burt; Set Decoration: Victor J. Zolfo,True,13,910,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,CINEMATOGRAPHY,Claudio Miranda,False,13,911,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,COSTUME DESIGN,Jacqueline West,False,13,912,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,DIRECTING,David Fincher,False,13,913,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,FILM EDITING,Kirk Baxter and Angus Wall,False,13,914,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,MAKEUP,Greg Cannom,True,13,915,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,MUSIC (Original Score),Alexandre Desplat,False,13,916,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,BEST PICTURE,"Kathleen Kennedy, Frank Marshall and Ceán Chaffin, Producers",False,13,917,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,SOUND MIXING,"David Parker, Michael Semanick, Ren Klyce and Mark Weingarten",False,13,918,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,VISUAL EFFECTS,"Eric Barba, Steve Preeg, Burt Dalton and Craig Barron",True,13,919,185
+2008,the curious case of benjamin button,329631958.0,127509326.0,202122632.0,WRITING (Adapted Screenplay),Screenplay by Eric Roth; Screen story by Eric Roth and Robin Swicord,False,13,920,185
+2000,the perfect storm,328711434.0,182618434.0,146093000.0,SOUND,"John Reitz, Gregg Rudloff, David Campbell, Keith A. Wester",False,2,921,186
+2000,the perfect storm,328711434.0,182618434.0,146093000.0,VISUAL EFFECTS,"Stefen Fangmeier, Habib Zargarpour, John Frazier, Walt Conti",False,2,922,186
+2008,bolt,328015029.0,114053579.0,213961450.0,ANIMATED FEATURE FILM,Chris Williams and Byron Howard,False,1,926,187
+2006,the devil wears prada,326073155.0,124740460.0,201332695.0,ACTRESS IN A LEADING ROLE,Meryl Streep,False,2,928,188
+2006,the devil wears prada,326073155.0,124740460.0,201332695.0,COSTUME DESIGN,Patricia Field,False,2,929,188
+1996,the hunchback of notre dame,325500000.0,100138851.0,225361149.0,MUSIC (Scoring),Alfred Newman,False,3,931,189
+1996,the hunchback of notre dame,325500000.0,100138851.0,225361149.0,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",False,3,932,189
+1996,the hunchback of notre dame,325500000.0,100138851.0,225361149.0,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,False,3,933,189
+2010,robin hood,322459006.0,105487148.0,216971858.0,MUSIC (Song),Music by George Bruns; Lyrics by Floyd Huddleston,False,1,934,190
+1987,fatal attraction,320100000.0,156645693.0,163454307.0,ACTRESS IN A LEADING ROLE,Glenn Close,False,6,937,191
+1987,fatal attraction,320100000.0,156645693.0,163454307.0,ACTRESS IN A SUPPORTING ROLE,Anne Archer,False,6,938,191
+1987,fatal attraction,320100000.0,156645693.0,163454307.0,DIRECTING,Adrian Lyne,False,6,939,191
+1987,fatal attraction,320100000.0,156645693.0,163454307.0,FILM EDITING,"Michael Kahn, Peter E. Berger",False,6,940,191
+1987,fatal attraction,320100000.0,156645693.0,163454307.0,BEST PICTURE,"Stanley R. Jaffe and Sherry Lansing, Producers",False,6,941,191
+1987,fatal attraction,320100000.0,156645693.0,163454307.0,WRITING (Screenplay Based on Material from Another Medium),James Dearden,False,6,942,191
+2018,green book,320029388.0,85080171.0,234949217.0,ACTOR IN A LEADING ROLE,Viggo Mortensen,False,5,943,192
+2018,green book,320029388.0,85080171.0,234949217.0,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,True,5,944,192
+2018,green book,320029388.0,85080171.0,234949217.0,FILM EDITING,Patrick J. Don Vito,False,5,945,192
+2018,green book,320029388.0,85080171.0,234949217.0,BEST PICTURE,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",True,5,946,192
+2018,green book,320029388.0,85080171.0,234949217.0,WRITING (Original Screenplay),"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",True,5,947,192
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,ACTOR IN A LEADING ROLE,Russell Crowe,False,8,952,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,True,8,953,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,DIRECTING,Ron Howard,True,8,954,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,FILM EDITING,"Mike Hill, Dan Hanley",False,8,955,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,MAKEUP,"Greg Cannom, Colleen Callaghan",False,8,956,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,MUSIC (Original Score),James Horner,False,8,957,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,BEST PICTURE,"Brian Grazer and Ron Howard, Producers",True,8,958,193
+2001,a beautiful mind,317668058.0,170708996.0,146959062.0,WRITING (Screenplay Based on Material Previously Produced or Published),Written by Akiva Goldsman,True,8,959,193
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,True,8,960,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,CINEMATOGRAPHY,Robert Richardson,False,8,961,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,DIRECTING,Quentin Tarantino,False,8,962,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,FILM EDITING,Sally Menke,False,8,963,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,BEST PICTURE,"Lawrence Bender, Producer",False,8,964,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,SOUND EDITING,Wylie Stateman,False,8,965,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,SOUND MIXING,"Michael Minkler, Tony Lamberti and Mark Ulano",False,8,966,194
+2009,inglourious basterds,316915264.0,120774594.0,196140670.0,WRITING (Original Screenplay),Written by Quentin Tarantino,False,8,967,194
+1984,beverly hills cop,316300000.0,234760478.0,81539522.0,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Daniel Petrie, Jr.;  Story by Danilo Bach, Daniel Petrie, Jr.",False,1,968,195
+1997,air force one,315268353.0,172956409.0,142311944.0,FILM EDITING,Richard Francis-Bruce,False,2,970,196
+1997,air force one,315268353.0,172956409.0,142311944.0,SOUND,"Paul Massey, Rick Kline, D. M. Hemphill, Keith A. Wester",False,2,971,196
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,ACTOR IN A LEADING ROLE,Jack Nicholson,True,7,973,197
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,ACTOR IN A SUPPORTING ROLE,Greg Kinnear,False,7,974,197
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,ACTRESS IN A LEADING ROLE,Helen Hunt,True,7,975,197
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,FILM EDITING,Richard Marks,False,7,976,197
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,MUSIC (Original Musical or Comedy Score),Hans Zimmer,False,7,977,197
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,BEST PICTURE,"James L. Brooks, Bridget Johnson and Kristi Zea, Producers",False,7,978,197
+1997,as good as it gets,314111923.0,148478011.0,165633912.0,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Mark Andrus, James L. Brooks;  Story by Mark Andrus",False,7,979,197
+2019,knives out,312952178.0,165364060.0,147588118.0,WRITING (Original Screenplay),Written by Rian Johnson,False,1,982,198
+2017,wonder,312755215.0,132422809.0,180332406.0,MAKEUP AND HAIRSTYLING,Arjen Tuiten,False,1,983,199
+2004,the polar express,312719437.0,188578855.0,124140582.0,MUSIC (Original Song),Music and Lyric by Glen Ballard and Alan Silvestri,False,3,984,200
+2004,the polar express,312719437.0,188578855.0,124140582.0,SOUND EDITING,Randy Thom and Dennis Leonard,False,3,985,200
+2004,the polar express,312719437.0,188578855.0,124140582.0,SOUND MIXING,"Randy Thom, Tom Johnson, Dennis Sands and William B. Kaplan",False,3,986,200
+1999,austin powers: the spy who shagged me,312383487.0,206040085.0,106343402.0,MAKEUP,"Michèle Burke, Mike Smithson",False,1,987,201
+2006,the pursuit of happyness,307311093.0,162586036.0,144725057.0,ACTOR IN A LEADING ROLE,Will Smith,False,1,1000,202
+2002,chicago,306770545.0,170687518.0,136083027.0,ACTOR IN A SUPPORTING ROLE,John C. Reilly,False,13,1003,203
+2002,chicago,306770545.0,170687518.0,136083027.0,ACTRESS IN A LEADING ROLE,Renée Zellweger,False,13,1004,203
+2002,chicago,306770545.0,170687518.0,136083027.0,ACTRESS IN A SUPPORTING ROLE,Queen Latifah,False,13,1005,203
+2002,chicago,306770545.0,170687518.0,136083027.0,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,True,13,1006,203
+2002,chicago,306770545.0,170687518.0,136083027.0,ART DIRECTION,Art Direction:  John Myhre; Set Decoration:  Gordon Sim,True,13,1007,203
+2002,chicago,306770545.0,170687518.0,136083027.0,CINEMATOGRAPHY,Dion Beebe,False,13,1008,203
+2002,chicago,306770545.0,170687518.0,136083027.0,COSTUME DESIGN,Colleen Atwood,True,13,1009,203
+2002,chicago,306770545.0,170687518.0,136083027.0,DIRECTING,Rob Marshall,False,13,1010,203
+2002,chicago,306770545.0,170687518.0,136083027.0,FILM EDITING,Martin Walsh,True,13,1011,203
+2002,chicago,306770545.0,170687518.0,136083027.0,MUSIC (Original Song),Music by John Kander; Lyric by Fred Ebb,False,13,1012,203
+2002,chicago,306770545.0,170687518.0,136083027.0,BEST PICTURE,"Martin Richards, Producer",True,13,1013,203
+2002,chicago,306770545.0,170687518.0,136083027.0,SOUND,"Michael Minkler, Dominick Tavella, David Lee",True,13,1014,203
+2002,chicago,306770545.0,170687518.0,136083027.0,WRITING (Adapted Screenplay),Screenplay by Bill Condon,False,13,1015,203
+2009,the blind side,305705794.0,255959475.0,49746319.0,ACTRESS IN A LEADING ROLE,Sandra Bullock,True,2,1016,204
+2009,the blind side,305705794.0,255959475.0,49746319.0,BEST PICTURE,"Gil Netter, Andrew A. Kosove and Broderick Johnson, Producers",False,2,1017,204
+2018,skyscraper,304868961.0,68420120.0,236448841.0,SHORT SUBJECT (Live Action),"Shirley Clarke, Willard Van Dyke and Irving Jacoby, Producers",False,1,1021,205
+1998,mulan,303500000.0,120620254.0,182879746.0,MUSIC (Original Musical or Comedy Score),Music by Matthew Wilder; Lyrics by David Zippel; Orchestral Score by Jerry Goldsmith,False,1,1024,206
+2016,passengers,302239672.0,100014699.0,202224973.0,MUSIC (Original Score),Thomas Newman,False,2,1027,207
+2016,passengers,302239672.0,100014699.0,202224973.0,PRODUCTION DESIGN,Production Design: Guy Hendrix Dyas; Set Decoration: Gene Serdena,False,2,1028,207
+1991,hook,300854823.0,119654823.0,181200000.0,ART DIRECTION,Art Direction:  Norman Garwood;  Set Decoration:  Garrett Lewis,False,5,1029,208
+1991,hook,300854823.0,119654823.0,181200000.0,COSTUME DESIGN,Anthony Powell,False,5,1030,208
+1991,hook,300854823.0,119654823.0,181200000.0,MAKEUP,"Christina Smith, Monty Westmore, Greg Cannom",False,5,1031,208
+1991,hook,300854823.0,119654823.0,181200000.0,MUSIC (Original Song),Music by John Williams; Lyric by Leslie Bricusse,False,5,1032,208
+1991,hook,300854823.0,119654823.0,181200000.0,VISUAL EFFECTS,"Eric Brevig, Harley Jessup, Mark Sullivan, Michael Lantieri",False,5,1033,208
+1985,rambo: first blood part ii,300400000.0,150415432.0,149984568.0,SOUND EFFECTS EDITING,Frederick J. Brown,False,1,1034,209
+1978,superman,300200000.0,134218018.0,165981982.0,SHORT SUBJECT (Cartoon),"Max Fleischer, Producer",False,5,1035,210
+1978,superman,300200000.0,134218018.0,165981982.0,FILM EDITING,Stuart Baird,False,5,1036,210
+1978,superman,300200000.0,134218018.0,165981982.0,MUSIC (Original Score),John Williams,False,5,1037,210
+1978,superman,300200000.0,134218018.0,165981982.0,SOUND,"Gordon K. McCallum, Graham Hartstone, Nicolas Le Messurier, Roy Charman",False,5,1038,210
+1978,superman,300200000.0,134218018.0,165981982.0,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zoran Perisic",True,5,1039,210
+1997,my best friend's wedding,298923419.0,126813153.0,172110266.0,MUSIC (Original Musical or Comedy Score),James Newton Howard,False,1,1043,211
+1999,stuart little,298815224.0,140015224.0,158800000.0,VISUAL EFFECTS,"John Dykstra, Jerome Chen, Henry F. Anderson III, Eric Allard",False,1,1044,212
+1984,ghostbusters,295211811.0,242212467.0,52999344.0,MUSIC (Original Song),"Music and Lyric by Ray Parker, Jr.",False,2,1051,213
+1984,ghostbusters,295211811.0,242212467.0,52999344.0,VISUAL EFFECTS,"Richard Edlund, John Bruno, Mark Vargo, Chuck Gaspar",False,2,1052,213
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,ART DIRECTION,"Art Direction:  Mario Chiari, Jack Martin Smith, Ed Graves;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",False,9,1055,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,CINEMATOGRAPHY,Robert Surtees,False,9,1056,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,FILM EDITING,"Samuel E. Beetley, Marjorie Fowler",False,9,1057,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,MUSIC (Original Music Score),Leslie Bricusse,False,9,1058,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,MUSIC (Scoring of Music--adaptation or treatment),"Lionel Newman, Alexander Courage",False,9,1059,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,MUSIC (Song),Music and Lyrics by Leslie Bricusse,True,9,1060,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,BEST PICTURE,"Arthur P. Jacobs, Producer",False,9,1061,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,SOUND,20th Century-Fox Studio Sound Department,False,9,1062,214
+1998,doctor dolittle,294156605.0,144156605.0,150000000.0,SPECIAL VISUAL EFFECTS,L. B. Abbott,True,9,1063,214
+1999,the green mile,290701374.0,136801374.0,153900000.0,ACTOR IN A SUPPORTING ROLE,Michael Clarke Duncan,False,4,1066,215
+1999,the green mile,290701374.0,136801374.0,153900000.0,BEST PICTURE,"David Valdes and Frank Darabont, Producers",False,4,1067,215
+1999,the green mile,290701374.0,136801374.0,153900000.0,SOUND,"Robert J. Litt, Elliot Tyson, Michael Herbick, Willie D. Burton",False,4,1068,215
+1999,the green mile,290701374.0,136801374.0,153900000.0,WRITING (Screenplay Based on Material Previously Produced or Published),Frank Darabont,False,4,1069,215
+2010,salt,290650494.0,118311368.0,172339126.0,SOUND MIXING,"Jeffrey J. Haboush, Greg P. Russell, Scott Millan and William Sarokin",False,1,1070,216
+2017,ferdinand,289838913.0,84410380.0,205428533.0,ANIMATED FEATURE FILM,Carlos Saldanha and Lori Forte,False,1,1071,217
+2006,the departed,289660619.0,132384315.0,157276304.0,ACTOR IN A SUPPORTING ROLE,Mark Wahlberg,False,5,1072,218
+2006,the departed,289660619.0,132384315.0,157276304.0,DIRECTING,Martin Scorsese,True,5,1073,218
+2006,the departed,289660619.0,132384315.0,157276304.0,FILM EDITING,Thelma Schoonmaker,True,5,1074,218
+2006,the departed,289660619.0,132384315.0,157276304.0,BEST PICTURE,"Graham King, Producer",True,5,1075,218
+2006,the departed,289660619.0,132384315.0,157276304.0,WRITING (Adapted Screenplay),Screenplay by William Monahan,True,5,1076,218
+2011,bridesmaids,289632023.0,169211718.0,120420305.0,ACTRESS IN A SUPPORTING ROLE,Melissa McCarthy,False,2,1077,219
+2011,bridesmaids,289632023.0,169211718.0,120420305.0,WRITING (Original Screenplay),Written by Annie Mumolo & Kristen Wiig,False,2,1078,219
+1988,coming to america,288800000.0,128152301.0,160647699.0,COSTUME DESIGN,Deborah Nadoolman,False,2,1080,220
+1988,coming to america,288800000.0,128152301.0,160647699.0,MAKEUP,Rick Baker,False,2,1081,220
+1965,the sound of music,286214195.0,163214286.0,122999909.0,ACTRESS,Julie Andrews,False,10,1088,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,ACTRESS IN A SUPPORTING ROLE,Peggy Wood,False,10,1089,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,ART DIRECTION (Color),"Art Direction:  Boris Leven;  Set Decoration:  Walter M. Scott, Ruby Levitt",False,10,1090,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,CINEMATOGRAPHY (Color),Ted McCord,False,10,1091,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,COSTUME DESIGN (Color),Dorothy Jeakins,False,10,1092,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,DIRECTING,Robert Wise,True,10,1093,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,FILM EDITING,William Reynolds,True,10,1094,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,MUSIC (Scoring of Music--adaptation or treatment),Irwin Kostal,True,10,1095,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,BEST PICTURE,"Robert Wise, Producer",True,10,1096,221
+1965,the sound of music,286214195.0,163214286.0,122999909.0,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",True,10,1097,221
+1994,speed,283200000.0,121248145.0,161951855.0,FILM EDITING,John Wright,False,3,1101,222
+1994,speed,283200000.0,121248145.0,161951855.0,SOUND,"Gregg Landaker, Steve Maslow, Bob Beemer, David R. B. MacMillan",True,3,1102,222
+1994,speed,283200000.0,121248145.0,161951855.0,SOUND EFFECTS EDITING,Stephen Hunter Flick,True,3,1103,222
+1977,saturday night fever,282400000.0,139486124.0,142913876.0,ACTOR IN A LEADING ROLE,John Travolta,False,1,1105,223
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,False,13,1108,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,True,13,1109,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,ACTRESS IN A SUPPORTING ROLE,Judi Dench,True,13,1110,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,ART DIRECTION,Art Direction:  Martin Childs;  Set Decoration:  Jill Quertier,True,13,1111,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,CINEMATOGRAPHY,Richard Greatrex,False,13,1112,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,COSTUME DESIGN,Sandy Powell,True,13,1113,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,DIRECTING,John Madden,False,13,1114,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,FILM EDITING,David Gamble,False,13,1115,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,MAKEUP,"Lisa Westcott, Veronica Brebner",False,13,1116,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,MUSIC (Original Musical or Comedy Score),Stephen Warbeck,True,13,1117,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,BEST PICTURE,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",True,13,1118,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,SOUND,"Robin O'Donoghue, Dominic Lester, Peter Glossop",False,13,1119,224
+1998,shakespeare in love,279500000.0,100317794.0,179182206.0,WRITING (Screenplay Written Directly for the Screen),"Marc Norman, Tom Stoppard",True,13,1120,224
+2001,bridget jones's diary,277902373.0,71500556.0,206401817.0,ACTRESS IN A LEADING ROLE,Renée Zellweger,False,1,1123,225
+1987,beverly hills cop ii,276665036.0,153665036.0,123000000.0,MUSIC (Original Song),"Music by Harold Faltermeyer and Keith Forsey; Lyric by Harold Faltermeyer, Keith Forsey and Bob Seger",False,1,1126,226
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,ACTOR IN A LEADING ROLE,Anthony Hopkins,True,7,1129,227
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,ACTRESS IN A LEADING ROLE,Jodie Foster,True,7,1130,227
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,DIRECTING,Jonathan Demme,True,7,1131,227
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,FILM EDITING,Craig McKay,False,7,1132,227
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,BEST PICTURE,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",True,7,1133,227
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,SOUND,"Tom Fleischman, Christopher Newman",False,7,1134,227
+1991,the silence of the lambs,275726716.0,130726716.0,145000000.0,WRITING (Screenplay Based on Material Previously Produced or Published),Ted Tally,True,7,1135,227
+1996,the nutty professor,273814019.0,128814019.0,145000000.0,MAKEUP,"Rick Baker, David LeRoy Anderson",True,1,1139,228
+1996,jerry maguire,273552592.0,153952592.0,119600000.0,ACTOR IN A LEADING ROLE,Tom Cruise,False,5,1140,229
+1996,jerry maguire,273552592.0,153952592.0,119600000.0,ACTOR IN A SUPPORTING ROLE,"Cuba Gooding, Jr.",True,5,1141,229
+1996,jerry maguire,273552592.0,153952592.0,119600000.0,FILM EDITING,Joe Hutshing,False,5,1142,229
+1996,jerry maguire,273552592.0,153952592.0,119600000.0,BEST PICTURE,"James L. Brooks, Laurence Mark, Richard Sakai and Cameron Crowe, Producers",False,5,1143,229
+1996,jerry maguire,273552592.0,153952592.0,119600000.0,WRITING (Screenplay Written Directly for the Screen),Cameron Crowe,False,5,1144,229
+2012,lincoln,273346281.0,182207973.0,91138308.0,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,True,12,1146,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,False,12,1147,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,ACTRESS IN A SUPPORTING ROLE,Sally Field,False,12,1148,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,CINEMATOGRAPHY,Janusz Kaminski,False,12,1149,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,COSTUME DESIGN,Joanna Johnston,False,12,1150,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,DIRECTING,Steven Spielberg,False,12,1151,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,FILM EDITING,Michael Kahn,False,12,1152,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,MUSIC (Original Score),John Williams,False,12,1153,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,BEST PICTURE,"Steven Spielberg and Kathleen Kennedy, Producers",False,12,1154,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,PRODUCTION DESIGN,Production Design: Rick Carter; Set Decoration: Jim Erickson,True,12,1155,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,SOUND MIXING,"Andy Nelson, Gary Rydstrom and Ronald Judkins",False,12,1156,230
+2012,lincoln,273346281.0,182207973.0,91138308.0,WRITING (Adapted Screenplay),Screenplay by Tony Kushner,False,12,1157,230
+2009,the princess and the frog,270997378.0,104400899.0,166596479.0,ANIMATED FEATURE FILM,John Musker and Ron Clements,False,3,1161,231
+2009,the princess and the frog,270997378.0,104400899.0,166596479.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,3,1162,231
+2009,the princess and the frog,270997378.0,104400899.0,166596479.0,MUSIC (Original Song),Music and Lyric by Randy Newman,False,3,1163,231
+1993,the firm,270340892.0,158340892.0,112000000.0,ACTRESS IN A SUPPORTING ROLE,Holly Hunter,False,2,1165,232
+1993,the firm,270340892.0,158340892.0,112000000.0,MUSIC (Original Score),Dave Grusin,False,2,1166,232
+1972,the godfather,268500000.0,134966411.0,133533589.0,ACTOR,Marlon Brando,True,11,1169,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,ACTOR IN A SUPPORTING ROLE,James Caan,False,11,1170,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,ACTOR IN A SUPPORTING ROLE,Robert Duvall,False,11,1171,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,ACTOR IN A SUPPORTING ROLE,Al Pacino,False,11,1172,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,COSTUME DESIGN,Anna Hill Johnstone,False,11,1173,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,DIRECTING,Francis Ford Coppola,False,11,1174,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,FILM EDITING,"William Reynolds, Peter Zinner",False,11,1175,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,MUSIC (Original Dramatic Score),Nino Rota,False,11,1176,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,BEST PICTURE,"Albert S. Ruddy, Producer",True,11,1177,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,SOUND,"Bud Grenzbach, Richard Portman, Christopher Newman",False,11,1178,233
+1972,the godfather,268500000.0,134966411.0,133533589.0,WRITING (Screenplay--based on material from another medium),"Mario Puzo, Francis Ford Coppola",True,11,1179,233
+1942,bambi,268000000.0,102797000.0,165203000.0,MUSIC (Music Score of a Dramatic or Comedy Picture),"Frank Churchill, Edward Plumb",False,3,1182,234
+1942,bambi,268000000.0,102797000.0,165203000.0,MUSIC (Song),Music by Frank Churchill; Lyrics by Larry Morey,False,3,1183,234
+1942,bambi,268000000.0,102797000.0,165203000.0,SOUND RECORDING,"Walt Disney Studio Sound Department, Sam Slyfield, Sound Director",False,3,1184,234
+2007,american gangster,267985456.0,130164645.0,137820811.0,ACTRESS IN A SUPPORTING ROLE,Ruby Dee,False,2,1185,235
+2007,american gangster,267985456.0,130164645.0,137820811.0,ART DIRECTION,Art Direction: Arthur Max; Set Decoration: Beth A. Rubino,False,2,1186,235
+1992,batman returns,266824291.0,162833635.0,103990656.0,MAKEUP,"Ve Neill, Ronnie Specter, Stan Winston",False,2,1189,236
+1992,batman returns,266824291.0,162833635.0,103990656.0,VISUAL EFFECTS,"Michael Fink, Craig Barron, John Bruno, Dennis Skotak",False,2,1190,236
+2003,something's gotta give,266685242.0,124685242.0,142000000.0,ACTRESS IN A LEADING ROLE,Diane Keaton,False,1,1191,237
+1995,waterworld,264246220.0,88246220.0,176000000.0,SOUND,"Steve Maslow, Gregg Landaker, Keith A. Wester",False,1,1195,238
+1998,the truman show,264118201.0,125618201.0,138500000.0,ACTOR IN A SUPPORTING ROLE,Ed Harris,False,3,1196,239
+1998,the truman show,264118201.0,125618201.0,138500000.0,DIRECTING,Peter Weir,False,3,1197,239
+1998,the truman show,264118201.0,125618201.0,138500000.0,WRITING (Screenplay Written Directly for the Screen),Andrew Niccol,False,3,1198,239
+1997,the fifth element,263898761.0,63570862.0,200327899.0,SOUND EFFECTS EDITING,Mark Mangini,False,1,1199,240
+2011,real steel,263880341.0,85463309.0,178417032.0,VISUAL EFFECTS,"Erik Nash, John Rosengrant, Dan Taylor and Swen Gillberg",False,1,1201,241
+1990,total recall,261400000.0,119394839.0,142005161.0,SOUND,"Michael J. Kohut, Carlos de Larios, Aaron Rochin, Nelson Stoll",False,3,1206,242
+1990,total recall,261400000.0,119394839.0,142005161.0,SOUND EFFECTS EDITING,Stephen H. Flick,False,3,1207,242
+1990,total recall,261400000.0,119394839.0,142005161.0,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Eric Brevig, Rob Bottin, Tim McGovern, Alex Funke",True,3,1208,242
+1997,the full monty,261249383.0,45950122.0,215299261.0,DIRECTING,Peter Cattaneo,False,4,1209,243
+1997,the full monty,261249383.0,45950122.0,215299261.0,MUSIC (Original Musical or Comedy Score),Anne Dudley,True,4,1210,243
+1997,the full monty,261249383.0,45950122.0,215299261.0,BEST PICTURE,"Uberto Pasolini, Producer",False,4,1211,243
+1997,the full monty,261249383.0,45950122.0,215299261.0,WRITING (Screenplay Written Directly for the Screen),Simon Beaufoy,False,4,1212,243
+2013,the lone ranger,260002115.0,89302115.0,170700000.0,MAKEUP AND HAIRSTYLING,Joel Harlow and Gloria Pasqua-Casny,False,2,1214,244
+2013,the lone ranger,260002115.0,89302115.0,170700000.0,VISUAL EFFECTS,"Tim Alexander, Gary Brozenich, Edson Williams and John Frazier",False,2,1215,244
+2017,blade runner 2049,259238971.0,92054159.0,167184812.0,CINEMATOGRAPHY,Roger A. Deakins,True,5,1217,245
+2017,blade runner 2049,259238971.0,92054159.0,167184812.0,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Alessandra Querzola,False,5,1218,245
+2017,blade runner 2049,259238971.0,92054159.0,167184812.0,SOUND EDITING,Mark Mangini and Theo Green,False,5,1219,245
+2017,blade runner 2049,259238971.0,92054159.0,167184812.0,SOUND MIXING,"Ron Bartlett, Doug Hemphill and Mac Ruth",False,5,1220,245
+2017,blade runner 2049,259238971.0,92054159.0,167184812.0,VISUAL EFFECTS,"John Nelson, Gerd Nefzer, Paul Lambert and Richard R. Hoover",True,5,1221,245
+1985,out of africa,258210860.0,79096868.0,179113992.0,ACTOR IN A SUPPORTING ROLE,Klaus Maria Brandauer,False,11,1223,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,ACTRESS IN A LEADING ROLE,Meryl Streep,False,11,1224,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,ART DIRECTION,Art Direction:  Stephen Grimes;  Set Decoration:  Josie MacAvin,True,11,1225,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,CINEMATOGRAPHY,David Watkin,True,11,1226,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,COSTUME DESIGN,Milena Canonero,False,11,1227,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,DIRECTING,Sydney Pollack,True,11,1228,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,FILM EDITING,"Fredric Steinkamp, William Steinkamp, Pembroke Herring, Sheldon Kahn",False,11,1229,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,MUSIC (Original Score),John Barry,True,11,1230,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,BEST PICTURE,"Sydney Pollack, Producer",True,11,1231,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,SOUND,"Chris Jenkins, Gary Alexander, Larry Stensvold, Peter Handford",True,11,1232,246
+1985,out of africa,258210860.0,79096868.0,179113992.0,WRITING (Screenplay Based on Material from Another Medium),Kurt Luedtke,True,11,1233,246
+2013,american hustle,257858943.0,150098456.0,107760487.0,ACTOR IN A LEADING ROLE,Christian Bale,False,10,1235,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,ACTOR IN A SUPPORTING ROLE,Bradley Cooper,False,10,1236,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,ACTRESS IN A LEADING ROLE,Amy Adams,False,10,1237,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,ACTRESS IN A SUPPORTING ROLE,Jennifer Lawrence,False,10,1238,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,COSTUME DESIGN,Michael Wilkinson,False,10,1239,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,DIRECTING,David O. Russell,False,10,1240,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,FILM EDITING,"Jay Cassidy, Crispin Struthers and Alan Baumgarten",False,10,1241,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,BEST PICTURE,"Charles Roven, Richard Suckle, Megan Ellison and Jonathan Gordon, Producers",False,10,1242,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,PRODUCTION DESIGN,Production Design: Judy Becker; Set Decoration: Heather Loeffler,False,10,1243,247
+2013,american hustle,257858943.0,150098456.0,107760487.0,WRITING (Original Screenplay),Written by Eric Warren Singer and David O. Russell,False,10,1244,247
+2000,erin brockovich,257805243.0,125548685.0,132256558.0,ACTOR IN A SUPPORTING ROLE,Albert Finney,False,5,1245,248
+2000,erin brockovich,257805243.0,125548685.0,132256558.0,ACTRESS IN A LEADING ROLE,Julia Roberts,True,5,1246,248
+2000,erin brockovich,257805243.0,125548685.0,132256558.0,DIRECTING,Steven Soderbergh,False,5,1247,248
+2000,erin brockovich,257805243.0,125548685.0,132256558.0,BEST PICTURE,"Danny DeVito, Michael Shamberg and Stacey Sher, Producers",False,5,1248,248
+2000,erin brockovich,257805243.0,125548685.0,132256558.0,WRITING (Screenplay Written Directly for the Screen),Written by Susannah Grant,False,5,1249,248
