@@ -1,12 +1,12 @@
 CREATE TABLE Movies(
-film VARCHAR(45),
+film_year VARCHAR(145),
 movie_ID INTEGER, 
+film VARCHAR(45),
 PRIMARY KEY (movie_ID)
 )
 
 CREATE TABLE Film_Performance(
 year INTEGER,
-film VARCHAR(45),
 WorldwideBoxOffice FLOAT,
 DomesticBoxOffice FLOAT,
 InternationalBoxOffice FLOAT,
