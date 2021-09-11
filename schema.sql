@@ -2,7 +2,7 @@ CREATE TABLE Movies(
 movie_ID INTEGER, 
 film VARCHAR(45),
 PRIMARY KEY (movie_ID)
-)
+);
 
 CREATE TABLE Film_Performance(
 year INTEGER,
@@ -17,4 +17,4 @@ nomination_ID INTEGER,
 movie_ID INTEGER,
 PRIMARY KEY(nomination_ID),
 FOREIGN KEY (movie_ID) REFERENCES Movies (movie_ID)
-)
+);
