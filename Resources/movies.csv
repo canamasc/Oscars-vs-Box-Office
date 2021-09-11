@@ -1,250 +1,255 @@
-film,Movie ID
-avatar,0
-avengers: endgame,1
-titanic,2
-avengers: infinity war,3
-the lion king,4
-frozen ii,5
-black panther,6
-frozen,7
-beauty and the beast,8
-incredibles 2,9
-iron man 3,10
-transformers: dark of the moon,11
-skyfall,12
-toy story 4,13
-star wars: the rise of skywalker,14
-joker,15
-toy story 3,16
-rogue one: a star wars story,17
-aladdin,18
-jurassic park,19
-alice in wonderland,20
-the hobbit: an unexpected journey,21
-zootopia,22
-the dark knight,23
-despicable me 2,24
-the hobbit: the desolation of smaug,25
-the jungle book,26
-finding nemo,27
-shrek 2,28
-harry potter and the half-blood prince,29
-the lord of the rings: the two towers,30
-bohemian rhapsody,31
-harry potter and the goblet of fire,32
-spectre,33
-inside out,34
-transformers: revenge of the fallen,35
-spider-man,36
-independence day,37
-fantastic beasts and where to find them,38
-coco,39
-spider-man 2,40
-e.t. the extra-terrestrial,41
-harry potter and the prisoner of azkaban,42
-guardians of the galaxy,43
-maleficent,44
-x-men: days of future past,45
-suicide squad,46
-up,47
-inception,48
-captain america: the winter soldier,49
-dawn of the planet of the apes,50
-transformers,51
-gravity,52
-forrest gump,53
-doctor strange,54
-the sixth sense,55
-kung fu panda 2,56
-the martian,57
-interstellar,58
-big hero 6,59
-moana,60
-sing,61
-kung fu panda,62
-the incredibles,63
-ratatouille,64
-the passion of the christ,65
-iron man 2,66
-life of pi,67
-the lost world: jurassic park,68
-how to train your dragon 2,69
-logan,70
-war of the worlds,71
-casino royale,72
-men in black,73
-tangled,74
-iron man,75
-ready player one,76
-the croods,77
-fifty shades of grey,78
-kong: skull island,79
-"monsters, inc.",80
-ted,81
-puss in boots,82
-brave,83
-armageddon,84
-king kong,85
-american sniper,86
-cinderella,87
-the revenant,88
-wall-e,89
-ralph breaks the internet,90
-dunkirk,91
-ghost,92
-terminator 2: judgment day,93
-toy story 2,94
-sherlock holmes,95
-wreck-it ralph,96
-twister,97
-how to train your dragon,98
-shrek,99
-war for the planet of the apes,100
-maleficent: mistress of evil,101
-rio,102
-saving private ryan,103
-troy,104
-home alone,105
-charlie and the chocolate factory,106
-indiana jones and the last crusade,107
-rise of the planet of the apes,108
-jaws,109
-the lego movie,110
-star trek into darkness,111
-the matrix,112
-cars,113
-gladiator,114
-the last samurai,115
-django unchained,116
-pearl harbor,117
-tarzan,118
-la la land,119
-the bourne ultimatum,120
-mrs. doubtfire,121
-the greatest showman,122
-pretty woman,123
-a star is born,124
-the exorcist,125
-cast away,126
-dances with wolves,127
-the mummy,128
-rain man,129
-batman,130
-prometheus,131
-snow white and the huntsman,132
-tron: legacy,133
-solo: a star wars story,134
-superman returns,135
-gone with the wind,136
-robin hood: prince of thieves,137
-the wolf of wall street,138
-grease,139
-star trek,140
-ice age,141
-back to the future,142
-happy feet,143
-slumdog millionaire,144
-my big fat greek wedding,145
-the adventures of tintin,146
-shark tale,147
-mad max: fury road,148
-raiders of the lost ark,149
-the golden compass,150
-gone girl,151
-1917,152
-true lies,153
-toy story,154
-a bug's life,155
-planet of the apes,156
-batman begins,157
-minority report,158
-top gun,159
-american beauty,160
-catch me if you can,161
-the fugitive,162
-the great gatsby,163
-dumbo,164
-basic instinct,165
-the karate kid,166
-murder on the orient express,167
-the mask,168
-mary poppins returns,169
-"i, robot",170
-pocahontas,171
-trolls,172
-wanted,173
-close encounters of the third kind,174
-enchanted,175
-batman forever,176
-the rock,177
-apollo 13,178
-star trek beyond,179
-a quiet place,180
-indiana jones and the temple of doom,181
-back to the future part ii,182
-black swan,183
-meet the parents,184
-the curious case of benjamin button,185
-the perfect storm,186
-bolt,187
-the devil wears prada,188
-the hunchback of notre dame,189
-robin hood,190
-fatal attraction,191
-green book,192
-a beautiful mind,193
-inglourious basterds,194
-beverly hills cop,195
-air force one,196
-as good as it gets,197
-knives out,198
-wonder,199
-the polar express,200
-austin powers: the spy who shagged me,201
-the pursuit of happyness,202
-chicago,203
-the blind side,204
-skyscraper,205
-mulan,206
-passengers,207
-hook,208
-rambo: first blood part ii,209
-superman,210
-my best friend's wedding,211
-stuart little,212
-ghostbusters,213
-doctor dolittle,214
-the green mile,215
-salt,216
-ferdinand,217
-the departed,218
-bridesmaids,219
-coming to america,220
-the sound of music,221
-speed,222
-saturday night fever,223
-shakespeare in love,224
-bridget jones's diary,225
-beverly hills cop ii,226
-the silence of the lambs,227
-the nutty professor,228
-jerry maguire,229
-lincoln,230
-the princess and the frog,231
-the firm,232
-the godfather,233
-bambi,234
-american gangster,235
-batman returns,236
-something's gotta give,237
-waterworld,238
-the truman show,239
-the fifth element,240
-real steel,241
-total recall,242
-the full monty,243
-the lone ranger,244
-blade runner 2049,245
-out of africa,246
-american hustle,247
-erin brockovich,248
+film_year,Movie ID,film
+avatar2009,0,avatar
+avengers: endgame2019,1,avengers: endgame
+titanic1997,2,titanic
+avengers: infinity war2018,3,avengers: infinity war
+the lion king2019,4,the lion king
+the lion king1994,5,the lion king
+frozen ii2019,6,frozen ii
+black panther2018,7,black panther
+frozen2013,8,frozen
+beauty and the beast2017,9,beauty and the beast
+beauty and the beast1991,10,beauty and the beast
+incredibles 22018,11,incredibles 2
+iron man 32013,12,iron man 3
+transformers: dark of the moon2011,13,transformers: dark of the moon
+skyfall2012,14,skyfall
+toy story 42019,15,toy story 4
+star wars: the rise of skywalker2019,16,star wars: the rise of skywalker
+joker2019,17,joker
+toy story 32010,18,toy story 3
+rogue one: a star wars story2016,19,rogue one: a star wars story
+aladdin2019,20,aladdin
+aladdin1992,21,aladdin
+jurassic park1993,22,jurassic park
+alice in wonderland2010,23,alice in wonderland
+the hobbit: an unexpected journey2012,24,the hobbit: an unexpected journey
+zootopia2016,25,zootopia
+the dark knight2008,26,the dark knight
+despicable me 22013,27,despicable me 2
+the hobbit: the desolation of smaug2013,28,the hobbit: the desolation of smaug
+the jungle book2016,29,the jungle book
+finding nemo2003,30,finding nemo
+shrek 22004,31,shrek 2
+harry potter and the half-blood prince2009,32,harry potter and the half-blood prince
+the lord of the rings: the two towers2002,33,the lord of the rings: the two towers
+bohemian rhapsody2018,34,bohemian rhapsody
+harry potter and the goblet of fire2005,35,harry potter and the goblet of fire
+spectre2015,36,spectre
+inside out2015,37,inside out
+transformers: revenge of the fallen2009,38,transformers: revenge of the fallen
+spider-man2002,39,spider-man
+independence day1996,40,independence day
+fantastic beasts and where to find them2016,41,fantastic beasts and where to find them
+coco2017,42,coco
+spider-man 22004,43,spider-man 2
+e.t. the extra-terrestrial1982,44,e.t. the extra-terrestrial
+harry potter and the prisoner of azkaban2004,45,harry potter and the prisoner of azkaban
+guardians of the galaxy2014,46,guardians of the galaxy
+maleficent2014,47,maleficent
+x-men: days of future past2014,48,x-men: days of future past
+suicide squad2016,49,suicide squad
+up2009,50,up
+inception2010,51,inception
+captain america: the winter soldier2014,52,captain america: the winter soldier
+dawn of the planet of the apes2014,53,dawn of the planet of the apes
+transformers2007,54,transformers
+gravity2013,55,gravity
+forrest gump1994,56,forrest gump
+doctor strange2016,57,doctor strange
+the sixth sense1999,58,the sixth sense
+kung fu panda 22011,59,kung fu panda 2
+the martian2015,60,the martian
+interstellar2014,61,interstellar
+big hero 62014,62,big hero 6
+moana2016,63,moana
+sing2016,64,sing
+kung fu panda2008,65,kung fu panda
+the incredibles2004,66,the incredibles
+ratatouille2007,67,ratatouille
+the passion of the christ2004,68,the passion of the christ
+iron man 22010,69,iron man 2
+life of pi2012,70,life of pi
+the lost world: jurassic park1997,71,the lost world: jurassic park
+how to train your dragon 22014,72,how to train your dragon 2
+logan2017,73,logan
+war of the worlds2005,74,war of the worlds
+casino royale2006,75,casino royale
+men in black1997,76,men in black
+tangled2010,77,tangled
+iron man2008,78,iron man
+ready player one2018,79,ready player one
+the croods2013,80,the croods
+fifty shades of grey2015,81,fifty shades of grey
+kong: skull island2017,82,kong: skull island
+"monsters, inc.2001",83,"monsters, inc."
+ted2012,84,ted
+puss in boots2011,85,puss in boots
+brave2012,86,brave
+armageddon1998,87,armageddon
+king kong2005,88,king kong
+american sniper2014,89,american sniper
+cinderella2015,90,cinderella
+cinderella1950,91,cinderella
+the revenant2015,92,the revenant
+wall-e2008,93,wall-e
+ralph breaks the internet2018,94,ralph breaks the internet
+dunkirk2017,95,dunkirk
+ghost1990,96,ghost
+terminator 2: judgment day1991,97,terminator 2: judgment day
+toy story 21999,98,toy story 2
+sherlock holmes2009,99,sherlock holmes
+wreck-it ralph2012,100,wreck-it ralph
+twister1996,101,twister
+how to train your dragon2010,102,how to train your dragon
+shrek2001,103,shrek
+war for the planet of the apes2017,104,war for the planet of the apes
+maleficent: mistress of evil2019,105,maleficent: mistress of evil
+rio2011,106,rio
+saving private ryan1998,107,saving private ryan
+troy2004,108,troy
+home alone1990,109,home alone
+charlie and the chocolate factory2005,110,charlie and the chocolate factory
+indiana jones and the last crusade1989,111,indiana jones and the last crusade
+rise of the planet of the apes2011,112,rise of the planet of the apes
+jaws1975,113,jaws
+the lego movie2014,114,the lego movie
+star trek into darkness2013,115,star trek into darkness
+the matrix1999,116,the matrix
+cars2006,117,cars
+gladiator2000,118,gladiator
+the last samurai2003,119,the last samurai
+django unchained2012,120,django unchained
+pearl harbor2001,121,pearl harbor
+tarzan1999,122,tarzan
+la la land2016,123,la la land
+the bourne ultimatum2007,124,the bourne ultimatum
+mrs. doubtfire1993,125,mrs. doubtfire
+the greatest showman2017,126,the greatest showman
+pretty woman1990,127,pretty woman
+a star is born2018,128,a star is born
+the exorcist1973,129,the exorcist
+cast away2000,130,cast away
+dances with wolves1990,131,dances with wolves
+the mummy1999,132,the mummy
+the mummy2017,133,the mummy
+rain man1988,134,rain man
+batman1989,135,batman
+prometheus2012,136,prometheus
+snow white and the huntsman2012,137,snow white and the huntsman
+tron: legacy2010,138,tron: legacy
+solo: a star wars story2018,139,solo: a star wars story
+superman returns2006,140,superman returns
+gone with the wind1939,141,gone with the wind
+robin hood: prince of thieves1991,142,robin hood: prince of thieves
+the wolf of wall street2013,143,the wolf of wall street
+grease1978,144,grease
+star trek2009,145,star trek
+ice age2002,146,ice age
+back to the future1985,147,back to the future
+happy feet2006,148,happy feet
+slumdog millionaire2008,149,slumdog millionaire
+my big fat greek wedding2002,150,my big fat greek wedding
+the adventures of tintin2011,151,the adventures of tintin
+shark tale2004,152,shark tale
+mad max: fury road2015,153,mad max: fury road
+raiders of the lost ark1981,154,raiders of the lost ark
+the golden compass2007,155,the golden compass
+gone girl2014,156,gone girl
+19172019,157,1917
+true lies1994,158,true lies
+toy story1995,159,toy story
+a bug's life1998,160,a bug's life
+planet of the apes2001,161,planet of the apes
+batman begins2005,162,batman begins
+minority report2002,163,minority report
+top gun1986,164,top gun
+american beauty1999,165,american beauty
+catch me if you can2002,166,catch me if you can
+the fugitive1993,167,the fugitive
+the great gatsby2013,168,the great gatsby
+dumbo2019,169,dumbo
+basic instinct1992,170,basic instinct
+the karate kid2010,171,the karate kid
+murder on the orient express2017,172,murder on the orient express
+the mask1994,173,the mask
+mary poppins returns2018,174,mary poppins returns
+"i, robot2004",175,"i, robot"
+pocahontas1995,176,pocahontas
+trolls2016,177,trolls
+wanted2008,178,wanted
+close encounters of the third kind1977,179,close encounters of the third kind
+enchanted2007,180,enchanted
+batman forever1995,181,batman forever
+the rock1996,182,the rock
+apollo 131995,183,apollo 13
+star trek beyond2016,184,star trek beyond
+a quiet place2018,185,a quiet place
+indiana jones and the temple of doom1984,186,indiana jones and the temple of doom
+back to the future part ii1989,187,back to the future part ii
+black swan2010,188,black swan
+meet the parents2000,189,meet the parents
+the curious case of benjamin button2008,190,the curious case of benjamin button
+the perfect storm2000,191,the perfect storm
+bolt2008,192,bolt
+the devil wears prada2006,193,the devil wears prada
+the hunchback of notre dame1996,194,the hunchback of notre dame
+robin hood2010,195,robin hood
+fatal attraction1987,196,fatal attraction
+green book2018,197,green book
+a beautiful mind2001,198,a beautiful mind
+inglourious basterds2009,199,inglourious basterds
+beverly hills cop1984,200,beverly hills cop
+air force one1997,201,air force one
+as good as it gets1997,202,as good as it gets
+knives out2019,203,knives out
+wonder2017,204,wonder
+the polar express2004,205,the polar express
+austin powers: the spy who shagged me1999,206,austin powers: the spy who shagged me
+the pursuit of happyness2006,207,the pursuit of happyness
+chicago2002,208,chicago
+the blind side2009,209,the blind side
+skyscraper2018,210,skyscraper
+mulan1998,211,mulan
+passengers2016,212,passengers
+hook1991,213,hook
+rambo: first blood part ii1985,214,rambo: first blood part ii
+superman1978,215,superman
+my best friend's wedding1997,216,my best friend's wedding
+stuart little1999,217,stuart little
+ghostbusters1984,218,ghostbusters
+doctor dolittle1998,219,doctor dolittle
+the green mile1999,220,the green mile
+salt2010,221,salt
+ferdinand2017,222,ferdinand
+the departed2006,223,the departed
+bridesmaids2011,224,bridesmaids
+coming to america1988,225,coming to america
+the sound of music1965,226,the sound of music
+speed1994,227,speed
+saturday night fever1977,228,saturday night fever
+shakespeare in love1998,229,shakespeare in love
+bridget jones's diary2001,230,bridget jones's diary
+beverly hills cop ii1987,231,beverly hills cop ii
+the silence of the lambs1991,232,the silence of the lambs
+the nutty professor1996,233,the nutty professor
+jerry maguire1996,234,jerry maguire
+lincoln2012,235,lincoln
+the princess and the frog2009,236,the princess and the frog
+the firm1993,237,the firm
+the godfather1972,238,the godfather
+bambi1942,239,bambi
+american gangster2007,240,american gangster
+batman returns1992,241,batman returns
+something's gotta give2003,242,something's gotta give
+waterworld1995,243,waterworld
+the truman show1998,244,the truman show
+the fifth element1997,245,the fifth element
+real steel2011,246,real steel
+total recall1990,247,total recall
+the full monty1997,248,the full monty
+the lone ranger2013,249,the lone ranger
+blade runner 20492017,250,blade runner 2049
+out of africa1985,251,out of africa
+american hustle2013,252,american hustle
+erin brockovich2000,253,erin brockovich
