@@ -1,5 +1,4 @@
 CREATE TABLE Movies(
-film_year VARCHAR(145),
 movie_ID INTEGER, 
 film VARCHAR(45),
 PRIMARY KEY (movie_ID)
